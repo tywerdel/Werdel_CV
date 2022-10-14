@@ -92,7 +92,7 @@
   pdfkeywords={}
 }
 
-
+\RequirePackage{etaremune}
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
 %-------------------------------------------------------------------------------
@@ -203,11 +203,6 @@
 \newcommand*{\paragraphstyle}{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{text}}
 
 % For elements of entry
-% For meain heading in detailed entry
-% For second level heading in detailed entry
-% For date in detailed entry
-% For the Colored (Maroon) Text in detailed entry
-% For bullets in detailed entry
 \newcommand*{\entrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
 \newcommand*{\entrypositionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\scshape\color{graytext} #1}}
 \newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
@@ -679,6 +674,7 @@
     \end{tabular*}
   \end{center}
 }
+
 % Define a line of cv information(skill)
 % Usage: \cvskill{<type>}{<skillset>}
 \newcommand*{\cvskill}[2]{%
@@ -698,6 +694,61 @@
   \vspace{-4.0mm}
 }
 
+
+% Define an environment for cvpub
+\newenvironment{cvpubs}{
+  \begin{center}
+}{
+  \end{center}
+}
+% Define an entry of cv information
+% Usage: \cvpub{<description>}
+\newcommand*{\cvpub}[1]{
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{17.0cm} }
+    \descriptionstyle{#1} \\
+  \end{tabular*}
+}
+
+% Define an environment for cvenum(for cventry)
+\newenvironment{cvetar}{
+  \vspace{-4mm}
+  \begin{justify}
+  \begin{etaremune}[leftmargin=3ex, itemsep=6pt, parsep=0pt]
+    \setlength{\parskip}{0pt}
+    %\renewcommand{\labelitemi}{\bullet}
+}{
+  \end{etaremune}
+  \end{justify}
+  \vspace{-2mm}
+}
+
+
+% Define an environment for cvlist(for cventry)
+\newenvironment{cvlist}{
+  \vspace{-4mm}
+  \begin{justify}
+  \begin{itemize}[leftmargin=0pt, itemsep=0pt, parsep=0pt, label={}]
+    \setlength{\parskip}{0pt}
+    %\renewcommand{\labelitemi}{\bullet}
+}{
+  \end{itemize}
+  \end{justify}
+  \vspace{-2mm}
+}
+
+
+% Define an environment for cvpres
+\newenvironment{cvpress}{
+  \begin{center}
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{15.4cm} R{1.6cm}}
+}{
+    \end{tabular*}
+  \end{center}
+}
 
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter

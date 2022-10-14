@@ -38,7 +38,7 @@ ENTRY
 INTEGERS { output.state before.all mid.sentence after.sentence after.block }
 
 FUNCTION {cv.author}
-{ "Werdel, T.J." } 
+{ "Fidino, M." } 
 
 FUNCTION {highlight}
 { duplicate$ empty$
