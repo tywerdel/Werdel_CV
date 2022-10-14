@@ -118,6 +118,8 @@ teach %>%
     }
 \end{cvpubs}
 ```
+\newpage
+
 # Honors & Awards
 
 ## *Total Scholarship ($121,150)*
