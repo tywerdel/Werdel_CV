@@ -1,0 +1,275 @@
+---
+name: Ty J.
+surname: Werdel
+position: "Vice Chancelor's Postdoctoral Fellow"
+address: "Department of Rangeland, Wildlife and Fisheries Management - Texas A&M University, College Station, TX"
+profilepic: "headshot2.jpg"
+www: "werdelwildlife.com"
+department: "rwfm.tamu.edu/people/werdel-ty/"
+email: "ty.werdel@ag.tamu.edu"
+github: tywerdel
+linkedin: tywerdel
+orcid: 0000-0003-4023-9668
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 500000
+aboutme: "My research interests include the fields of Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes. I am also interested in software programming to advance my professional acumen, with this CV being compiled with code."
+docname: CV
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+require(xfun)
+packages <- c('vitae'     # The CV's LaTeX Template
+             ,'tibble'    # Data structure for tribbles
+             ,'magrittr'  # The Pipe %>%
+             ,'here'      # Relative File Paths
+             ,'readr'     # Data Loading
+             ,'glue'      # String Manipulation
+            )
+xfun::pkg_attach2(packages, message = FALSE)
+source(file = here("","data.R"))
+```
+
+# Education
+
+```{r EDUCATION}
+edu %>%
+  detailed_entries(
+    with = inst,
+    what = degree,
+    why = detail,
+    when = glue::glue("{endYear}",.na = ""),
+    where = where
+  )
+```
+# Certifications
+
+```{r CERTIFICATIONS}
+certifications %>%
+  detailed_entries(
+    with = area,
+    what = accomplishment,
+    why = detail,
+    when = year,
+    where = where
+  )
+```
+
+# Employment
+
+```{r EMPLOYMENT}
+work %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+# Teaching Experience
+
+```{r WORKS}
+teach %>%
+  detailed_entries(
+    with = area,
+    what = accomplishment,
+    why = detail,
+    when = year,
+    where = where
+  )
+```
+
+# Publications
+
+## *Peer-Reviewed*
+
+Hessami, M.A., **T.J. Werdel**, S.J. Hoagland, and M.T. Kohl. ***In Press***. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in E. Gomez and C. Bishop, eds. Wildlife Management and Conservation in North America: An Overview. 
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A. Ahlers. ***2022***. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift fox.  Landscape Ecology, 37(8), 2065–2079. https://doi.org/10.1007/s10980-022-01466-0
+
+**Werdel, T.J.**, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. ***2021***. Space use and movement patterns of translocated bighorn sheep. Mammalian Biology, 101(3),329–344. https://doi.org/10.1007/s42991-021-00107-4
+
+**Werdel, T.J.**, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. ***2019***. Restoration of a bighorn sheep population impeded by Mycoplasma ovipneumoniae exposure. Restoration Ecology, 28(2), 387–395. https://doi.org/10.1111/rec.13084 (Cover Article)
+
+**Werdel, T.J.**, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. ***2018***. Survival of translocated bighorn sheep in the Deadwood region of the Black Hills, South Dakota. Northwestern Naturalist,99(3),222–231. https://doi.org/10.1898/NWN18-06.1
+\vspace{1\baselineskip}
+
+## *In-Revision*
+
+Palomo-Muñoz, G., **T.J. Werdel**, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A Ahlers. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. Ecology.
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. Journal of Mammalogy.
+
+Piper, C.W., **T.J. Werdel**, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. Landscape composition and proximity to water structure American badger distributions in shortgrass prairies. Journal of Mammalogy.
+
+\vspace{1\baselineskip}
+## *In-Review*
+
+**Werdel, T.J.**, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. Resource 			selection and herbaceous biomass at foraging sites of translocated bighorn sheep.			Rangeland Ecology and Management.
+
+**Werdel, T.J.**, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. Ecological Applications.
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. Strategic grassland conservation to improve conservation outcomes for swift foxes in a multi-use landscape. Biological Conservation.
+
+# Honors & Awards
+
+## *Total Scholarship ($121,150)*
+```{r HONORS}
+honors %>%
+  detailed_entries(
+    with = inst,
+    what = degree,
+    why = detail,
+    when = glue::glue("{endYear}",.na = ""),
+    where = where
+  )
+```
+
+# Professional Service
+
+## *External Journal Reviewer*
+
+```{r REVIEW}
+reviewer %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+## *Executive Service in Professional Organizations*
+
+```{r SERVICE}
+service %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+## *Working Group Membership*
+
+```{r GROUP}
+group %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+## *Chapter Membership*
+
+```{r CHAPTER}
+chapter %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+## *Professional Organization Membership*
+
+```{r ORGANIZATION}
+organization %>%
+  detailed_entries(
+    with = title,
+    what = unit,
+    why = detail,
+    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
+    where = where
+  )
+```
+
+
+# Presentations
+
+## *Contributed*
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2021**. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift foxes. The Wildlife Society 28th Annual Conference. Virtual.
+
+Piper, C.W, **T.J. Werdel**, A.M. Ricketts, D. Sullins, M. Peek, and A.A. Ahlers. **2021**. Landscape composition and proximity to water structure American badger distributions in shortgrass prairies. The Wildlife Society 28th Annual Conference. Virtual.
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2021**. Multiscale landscape effects impose range-limiting constraints on the distribution of swift fox. Swift Fox Conservation Team Meeting, Kansas, USA.
+
+**Werdel, T.J.**, C.W. Piper, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2021**. Multiscale landscape effects impose range-limiting constraints on the distribution of swift fox. Midwest Association of Fish and Wildlife Agencies Furbearer Workshop. Michigan, USA.
+
+Piper, C.W., **T.J. Werdel**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2021**. Landscape composition and proximity to water structure American badger (Taxidea taxus) distributions in shortgrass prairies. Midwest Association of Fish and Wildlife Agencies Furbearer Workshop. Michigan, USA.
+
+**Werdel, T.J.**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2020**. Assessing factors that influence occupancy and colonization of swift fox in western Kansas. Kansas Natural Resources Conference. Manhattan, KS.
+
+**Werdel, T.J.**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2019**. Assessing factors that shape carnivore diversity in shortgrass prairie ecosystems. American Fisheries Society & The Wildlife Society Joint Annual Conference. Reno, NV.
+
+**Werdel, T.J.**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2019**. Carnivore richness and diversity is driven by landscape change in shortgrass prairie ecosystems. 99th Annual Meeting of the American Society of Mammalogists. Washington, D.C.
+
+**Werdel, T.J.**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2019**. Landscape effects on swift fox occupancy in western Kansas. Southwest/Midwest Joint Furbearer Meeting. Enid, OK.
+
+**Werdel, T.J.**, A.M. Ricketts, and A.A. Ahlers. **2019**. Landscape change structures carnivore communities in shortgrass prairie ecosystems. Kansas Natural Resources Conference. Manhattan, KS.
+
+**Werdel, T.J.**, A.M. Ricketts, and A.A. Ahlers. **2018**. Assessing the spatial distribution of swift fox in western Kansas. The Wildlife Society 25th Annual Conference. Cleveland, OH.
+
+**Werdel, T.J.**, J.A. Jenks. **2018**. Survival of bighorn sheep in the Deadwood region of the Black Hills. Nebraska/Central Mountains & Plains Section of The Wildlife Society Annual Meeting. Kearney, NE.
+
+**Werdel, T.J.**, J.A. Jenks, J. Kanta, and C. Lehman. **2016**. Evaluation of the Deadwood bighorn sheep herd translocation. The Wildlife Society 23rd Annual Conference. Raleigh, NC.
+
+**Werdel, T.J.** **2013**. Small mammal population and diversity in relation to prairie dog reintroduction sites. Sevilleta LTER Research Experience for Undergraduates Summer Symposium. Socorro, NM.
+
+\vspace{1\baselineskip}
+
+## *Invited*
+
+**2021** - Texas A&M University, College Station, TX; “Applied Wildlife Management: A Landscape Ecology Approach”
+
+**2021** -	Texas A&M University, College Station, TX; “Traditional Ecological Knowledge: A Place-Based Perspective”
+
+**2021** -	Kansas Department of Wildlife, Parks and Tourism, Emporia, KS; “Distribution of Swift Fox in Kansas”
+
+**2021** -	Kansas State University, Manhattan, KS; “Traditional Ecological Knowledge (TEK) of Wetlands”
+
+**2021** -	Kansas State University, Manhattan, KS; “Bighorn Sheep Capture and Monitoring Techniques”
+
+**2021** -	Kansas State University, Manhattan, KS; “Wild Sheep Natural History”
+
+**2020** -	Kansas State University, Manhattan, KS; “Bighorn Sheep Capture and Monitoring Techniques”
+
+**2019** -	Kansas State University, Manhattan, KS; “Traditional Ecological Knowledge (TEK) of Wetlands”
+
+**2019** -	Wild Sheep Foundation Sheep Show, Reno, NV; “Keynote Speaker: Youth Wildlife Conservation Experience”
+
+**2018** -	The Wildlife Society Annual Conference, Cleveland, OH; “Inclusive Pedagogy Student Panel”
+
+**2018** -	Kansas State University, Manhattan, KS; “Bighorn Sheep Monitoring”
+
+**2018** -	Marlatt Elementary School, Manhattan, KS; “Marlatt STEM Night”
+
+**2018** -	Haskell Indian Nations University, Lawrence, KS; “Initiating a Student Chapter of The Wildlife Society”
+
+**2016** -	Red Cloud Indian School, Pine Ridge, SD; “Toyota STEM Speaker”
+
+**2015** -	South Dakota Game, Fish, and Parks, Rapid City, SD; “Deadwood Bighorn Sheep Translocation”
+
+**2015** -	Kiwanis Club, Lead, SD; “Bighorn Sheep and Community Interaction”
+
+**2015** - Chadron State College, Chadron, NE; “Graduate School Experience and Preparation”
+
+**2013** - Red Cloud Indian School, Pine Ridge, SD; “Project WILD, Children and Wildlife”
+
+
+\makecvfooter{Curriculum vitae, Ty J. Werdel}{}{}
+
