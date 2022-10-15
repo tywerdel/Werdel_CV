@@ -67,7 +67,7 @@ work <- tribble(
 
 service <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Program Coordinator", "Native Student Professional Development Grant, Native Peoples’ Wildlife Management Working Group", NA, 2018, "Present", NA, "The Wildlife Society", NA,
+  "Program Coordinator", "Native Student Professional Development Grant", NA, 2018, "Present", NA, "The Wildlife Society", NA,
   "Secretary/Treasurer", "Central Mountains and Plains Section", NA, 2018, NA, 2021, "The Wildife Society", NA
 )
 
@@ -110,12 +110,35 @@ reviewer <- tribble(
 teach <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
   "Texas A&M University", "Co-Instructor", "2022", "College Station, TX", "Techniques of Wildlife Management, RWFM 408 & WFSC 638",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Firearms Cartridges and Ballistics, WOEM 201",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Rifle and Handgun Range Design, Construction and Operations, WOEM 202",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Introduction to Wildlife and Outdoor Enterprise Management, WOEM 250",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Flora and Fauna of the Great Plains, WOEM 350",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Big Game Management, WOEM 555",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Waterfowl and Wetlands Management, WOEM 561",
-  "Kansas State University", "Graduate Teaching Assistant", "2017-2022", "Manhattan, KS", "Advanced Wildlife Habitat Management, WOEM 562",
-  "South Dakota State University", "Graduate Teaching Assistant", "2014-2017", "Brookings, SD", "Introduction to Wildlife and Fisheries, WL 220",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Firearms Cartridges and Ballistics, WOEM 201",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Rifle and Handgun Range Design, Construction and Operations, WOEM 202",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Introduction to Wildlife and Outdoor Enterprise Management, WOEM 250",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Flora and Fauna of the Great Plains, WOEM 350",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Big Game Management, WOEM 555",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Waterfowl and Wetlands Management, WOEM 561",
+  "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Advanced Wildlife Habitat Management, WOEM 562",
+  "South Dakota State University", "Graduate Teaching Assistant", "2014 -- 2017", "Brookings, SD", "Introduction to Wildlife and Fisheries, WL 220",
    )
+
+invited <- tribble(
+  ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2022", "Manhattan, KS", NA,
+  "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX; ", NA,
+  "Traditional Ecological Knowledge: A Place-Based Perspective", "Texas A&M University", "2021", "College Station, TX; ", NA,
+  "Distribution of Swift Fox in Kansas", "Kansas Department of Wildlife, Parks and Tourism", "2021", "Emporia, KS", NA,
+  "Traditional Ecological Knowledge (TEK) of Wetlands", "Kansas State University", "2021", "Manhattan, KS", NA,
+  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2021", "Manhattan, KS", NA,
+  "Wild Sheep Natural History", "Kansas State University", "2021", "Manhattan, KS", NA,
+  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2020", "Manhattan, KS", NA,
+  "Traditional Ecological Knowledge (TEK) of Wetlands", "Kansas State University", "2019", "Manhattan, KS", NA,
+  "Keynote Speaker: Youth Wildlife Conservation Experience", "Wild Sheep Foundation Sheep Show", "2019", "Reno, NV", NA,
+  "Inclusive Pedagogy Student Panel", "The Wildlife Society Annual Conference", "2018", "Cleveland, OH", NA,
+  "Bighorn Sheep Monitoring", "Kansas State University", "2018", "Manhattan, KS", NA,
+  "Marlatt STEM Night", "Marlatt Elementary School", "2018", "Manhattan, KS", NA,
+  "Initiating a Student Chapter of The Wildlife Society", "Haskell Indian Nations University", "2018", "Lawrence, KS", NA,
+  "Toyota STEM Speaker", "Red Cloud Indian School", "2016", "Pine Ridge, SD", NA,
+  "Deadwood Bighorn Sheep Translocation", "South Dakota Game, Fish, and Parks", "2015", "Rapid City, SD", NA,
+  "Bighorn Sheep and Community Interaction", "Kiwanis Club", "2015", "Lead, SD", NA,
+  "Graduate School Experience and Preparation", "Chadron State College", "2015", "Chadron, NE", NA,
+  "Project WILD, Children and	Wildlife", "Red Cloud Indian School", "2013", "Pine Ridge, SD", NA
+)
