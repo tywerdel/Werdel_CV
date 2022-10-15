@@ -2,7 +2,4 @@ This is my academic CV. Created in R Markdown, using the Awesomecv Template and 
 
 Still under construction:
 
-Tighten up Honors and Awards
-Line up Dates on All Presentations
-Add Footer to Every Page?
-Add Page Numbers?
+Need to remove commas after first level, ADD References?
