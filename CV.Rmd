@@ -32,6 +32,14 @@ packages <- c('vitae'     # The CV's LaTeX Template
 xfun::pkg_attach2(packages, message = FALSE)
 source(file = here("","data.R"))
 ```
+```{=tex}
+\makecvfooter
+  {Dr. Ty J. Werdel~~~·~~~\textit{Curriculum vitae}}
+  {\today}
+  {\thepage}
+```
+
+\thispagestyle{empty}
 
 # Education
 
@@ -122,17 +130,126 @@ teach %>%
 
 # Honors & Awards
 
-## *Total Scholarship ($121,150)*
-```{r HONORS}
-honors %>%
-  detailed_entries(
-    with = inst,
-    what = degree,
-    why = detail,
-    when = glue::glue("{endYear}",.na = ""),
-    where = where
-  )
+## *Total Awards ($121,150)*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Community Building Through Mentorship Conference Panel Travel Grant}
+    {The Wildlife Society}
+    {2022}
+ \cvpres
+    {Agriculture Dean and Director’s Award for Graduate Student Research}
+    {Kansas State University}
+    {2022}
+ \cvpres
+    {Advancing Agricultural Science Opportunities for Native Americans Scholarship}
+    {AISES}
+    {2021}
+ \cvpres
+    {Robert Nunemacher Scholarship}
+    {Kansas State University}
+    {2021}
+ \cvpres
+    {Advancing Agricultural Science Opportunities for Native Americans Research Award}
+    {AISES}
+    {2020}
+ \cvpres
+    {Advancing Agricultural Science Opportunities for Native Americans Scholarship}
+    {AISES}
+    {2020}
+ \cvpres
+    {Lighting the Pathway to Faculty Careers for Natives in STEM}
+    {AISES}
+    {2020}
+ \cvpres
+    {College of Agriculture Graduate Student Recognition of Achievement}
+    {Kansas State University}
+    {2020}
+ \cvpres
+    {AISES Together Towards Tomorrow T3 Scholarship}
+    {AISES}
+    {2020}
+ \cvpres
+    {Gamma Sigma Delta}
+    {The Honor Society of Agriculture, Kansas State University}
+    {2019}
+ \cvpres
+    {AISES Travel Grant}
+    {AISES}
+    {2019}
+ \cvpres
+    {Advancing Agricultural Science Opportunities for Native Americans Scholarship}
+    {AISES}
+    {2019}
+ \cvpres
+    {Kansas State University Graduate Student Recognition of Achievement}
+    {Kansas State University}
+    {2019}
+ \cvpres
+    {College of Agriculture Graduate Student Recognition of Achievement}
+    {Kansas State University}
+    {2019}
+ \cvpres
+    {Inclusive Pedagogy Travel Grant}
+    {The Wildlife Society}
+    {2018}
+ \cvpres
+    {Life Membership Fund Scholarship}
+    {Wild Sheep Foundation}
+    {2018}
+ \cvpres
+    {Predoctoral Ford Fellowship}
+    {(Honorable Mention) Ford Foundation Fellowships Program}
+    {2018}
+ \cvpres
+    {Native Student Professional Development Grant}
+    {The Wildlife Society}
+    {2017}
+ \cvpres
+    {Launch Collegiate Business Pitch Competition}
+    {Kansas State University}
+    {2017}
+ \cvpres
+    {Native Student Professional Development Grant}
+    {The Wildlife Society}
+    {2016}
+ \cvpres
+    {Phi Kappa Phi Honor Society}
+    {South Dakota State University}
+    {2016}
+ \cvpres
+    {Excellence in Wildlife Management}
+    {Chadron State College}
+    {2013}
+ \cvpres
+    {Platinum Eagle Award}
+    {(Finalist) Chadron State College}
+    {2013}
+ \cvpres
+    {Gates Millennium Scholarship}
+    {Bill and Melinda Gates Foundation}
+    {2005}
+ \cvpres
+    {Scholastic Excellence in Engineering}
+    {University of Wyoming}
+    {2005}
+ \cvpres
+    {Scholars Stipend}
+    {University of Wyoming}
+    {2005}
+ \cvpres
+    {Computer Science, Engineering, and Mathematics Scholarship}
+    {University of Wyoming}
+    {2005}
+ \cvpres
+    {Honors Program}
+    {University of Wyoming}
+    {2005}
+\end{cvpress}
+
 ```
+
 
 # Professional Service
 
@@ -273,7 +390,4 @@ Piper, C.W., **T.J. Werdel**, A.M. Ricketts, M. Peek, and A.A. Ahlers. **2021**.
 **2015** - Chadron State College, Chadron, NE; “Graduate School Experience and Preparation”
 
 **2013** - Red Cloud Indian School, Pine Ridge, SD; “Project WILD, Children and Wildlife”
-
-
-\makecvfooter{Curriculum vitae, Ty J. Werdel}{}{}
 
