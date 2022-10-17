@@ -123,8 +123,8 @@ teach <- tribble(
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
   "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2022", "Manhattan, KS", NA,
-  "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX; ", NA,
-  "Traditional Ecological Knowledge: A Place-Based Perspective", "Texas A&M University", "2021", "College Station, TX; ", NA,
+  "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
+  "Traditional Ecological Knowledge: A Place-Based Perspective", "Texas A&M University", "2021", "College Station, TX", NA,
   "Distribution of Swift Fox in Kansas", "Kansas Department of Wildlife, Parks and Tourism", "2021", "Emporia, KS", NA,
   "Traditional Ecological Knowledge (TEK) of Wetlands", "Kansas State University", "2021", "Manhattan, KS", NA,
   "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2021", "Manhattan, KS", NA,
