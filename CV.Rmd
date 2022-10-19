@@ -101,7 +101,7 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {Hessami, M.A., \textbf{T.J. Werdel}, S.J. Hoagland, and M.T. Kohl. \textbf{In-Press}. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in E. Gomez and C. Bishop, eds. \textbf{\textit{Wildlife Management and Conservation in North America: An Overview}}.}
+      \item {Hessami, M.A., \textbf{T.J. Werdel}, S.J. Hoagland, and M.T. Kohl. \textbf{In-Press}. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in E. Gomez and C. Bishop, eds. \textbf{\textit{Wildlife Management and Conservation in North America: An Overview}}. Great River Learning of Dubuque, IA.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A. Ahlers. \textbf{2022}. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift fox. \textbf{\textit{Landscape Ecology}}, 37(8), 2065--2079. \url{https://doi.org/10.1007/s10980-022-01466-0}}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2021}. Space use and movement patterns of translocated bighorn sheep. \textbf{\textit{Mammalian Biology}}, 101(3),329–-344. \url{https://doi.org/10.1007/s42991-021-00107-4}}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2019}. Restoration of a bighorn sheep population impeded by \textit{Mycoplasma ovipneumoniae} exposure. \textbf{\textit{Restoration Ecology}}, 28(2), 387–-395. \url{https://doi.org/https://doi.org/10.1111/rec.13084}}
