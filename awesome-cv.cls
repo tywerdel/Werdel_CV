@@ -757,6 +757,26 @@
   \honorpositionstyle{#1}, \honortitlestyle{#2} & \honordatestyle{#3}
   \\
 }
+
+% Define an environment for cvmem
+\newenvironment{cvmemb}{
+  \begin{center}
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{15cm} R{2cm}}
+}{
+    \end{tabular*}
+  \end{center}
+  
+}
+
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvmem{<title>}{<location>}{<date>}
+\newcommand*{\cvmem}[3]{
+  \honorpositionstyle{#1} \honortitlestyle{#2} & \honordatestyle{#3}
+  \\
+}
+
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter
 %-------------------------------------------------------------------------------

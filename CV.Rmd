@@ -322,48 +322,48 @@ service %>%
 ## *Professional Organization Membership*
 
 ```{=tex}
-\begin{cvpress}
- \cvpres
+\begin{cvmemb}
+ \cvmem
     {Society for Advancement of Chicanos/Hispanics and Native Americans in Science}
     {}
     {2021 -- Present}
- \cvpres
+ \cvmem
     {Gamma Sigma Delta Honor Society}
     {}
     {2019 -- Present}
- \cvpres
+ \cvmem
     {American Indian Science and Engineering Society}
     {}
     {2019 -- Present}
- \cvpres
+ \cvmem
     {Swift Fox Conservation Team}
     {}
     {2018 -- Present}
- \cvpres
+ \cvmem
     {Phi Kappa Phi Honor Society}
     {}
     {2016 -- Present}
- \cvpres
+ \cvmem
     {Native American Fish and Wildlife Society}
     {}
     {2015 -- Present}
- \cvpres
+ \cvmem
     {Rocky Mountain Bighorn Society}
     {}
     {2015 -- 2017}
- \cvpres
+ \cvmem
     {Wild Sheep Foundation}
     {}
     {2014 -- 2020}
- \cvpres
+ \cvmem
     {American Society of Mammalogists}
     {}
     {2013 -- Present}
- \cvpres
+ \cvmem
     {The Wildlife Society}
     {}
     {2013 -- Present}
-\end{cvpress}
+\end{cvmemb}
 ```
 
 \vspace{1\baselineskip}
