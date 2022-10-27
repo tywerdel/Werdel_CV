@@ -128,9 +128,26 @@ teach %>%
 ```
 \newpage
 
+# Grants & Contracts
+
+## *Funded ($145,000)*
+
+```{=tex}
+\begin{cvpubs}
+  \cvpub
+    {
+      \begin{cvetar}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$85,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000}. PI: \textbf{Ty J. Werdel}.}
+      \end{cvetar}
+    }
+\end{cvpubs}
+```
+
+
 # Honors & Awards
 
-## *Total Awards ($121,150)*
+## *Awards ($121,150)*
 
 ```{=tex}
 \begin{cvpress}
@@ -172,7 +189,7 @@ teach %>%
     {2020}
  \cvpres
     {Gamma Sigma Delta}
-    {The Honor Society of Agriculture, Kansas State University}
+    {Kansas State University}
     {2019}
  \cvpres
     {AISES Travel Grant}
@@ -250,7 +267,7 @@ teach %>%
 
 ```
 
-
+\newpage
 # Professional Service
 
 ## *Executive Service in Professional Organizations*
@@ -318,7 +335,6 @@ service %>%
 ```
 
 \vspace{1\baselineskip}
-\newpage
 ## *Professional Organization Membership*
 
 ```{=tex}
@@ -381,7 +397,7 @@ reviewer %>%
   )
 ```
 \vspace{-1\baselineskip}
-
+\newpage
 # Presentations
 
 ## *Contributed*
@@ -414,7 +430,6 @@ reviewer %>%
 
 
 \vspace{1\baselineskip}
-\newpage
 ## *Invited*
 
 ```{r INVITED}
