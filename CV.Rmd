@@ -9,7 +9,7 @@ department: "rwfm.tamu.edu/people/werdel-ty/"
 email: "ty.werdel@ag.tamu.edu"
 github: tywerdel
 linkedin: tywerdel
-orcid: 0000-0003-4023-9668
+twitter: tywerdel
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
 aboutme: "My research interests include the fields of Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes. I am also interested in software programming to advance my professional acumen, with this CV being compiled with code."
@@ -142,14 +142,14 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded ($145,000)*
+## *Funded ($160,000)*
 
 ```{=tex}
 \begin{cvpubs}
   \cvpub
     {
       \begin{cvetar}
-      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$85,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000}. PI: \textbf{Ty J. Werdel}.}
       \end{cvetar}
     }
