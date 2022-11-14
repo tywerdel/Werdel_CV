@@ -122,6 +122,7 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
   "Wildlife Professional Experience", "Texas A&M University", "2022", "College Station, TX", NA,
   "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2022", "Manhattan, KS", NA,
   "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
