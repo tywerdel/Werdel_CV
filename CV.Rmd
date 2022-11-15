@@ -101,9 +101,10 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
+      \item {Palomo-Muñoz, G, \textbf{T.J. Werdel}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A Ahlers. \textbf{In-Press}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Ecology}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A. Ahlers. \textbf{2022}. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift fox. \textbf{\textit{Landscape Ecology}}, 37(8), 2065--2079. \url{https://doi.org/10.1007/s10980-022-01466-0}}
-      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2021}. Space use and movement patterns of translocated bighorn sheep. \textbf{\textit{Mammalian Biology}}, 101(3),329–-344. \url{https://doi.org/10.1007/s42991-021-00107-4}}
-      \item {\textbf{Werdel, T.J.}, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2019}. Restoration of a bighorn sheep population impeded by \textit{Mycoplasma ovipneumoniae} exposure. \textbf{\textit{Restoration Ecology}}, 28(2), 387–-395. \url{https://doi.org/https://doi.org/10.1111/rec.13084}}
+      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2021}. Space use and movement patterns of translocated bighorn sheep. \textbf{\textit{Mammalian Biology}}, 101(3),329--344. \url{https://doi.org/10.1007/s42991-021-00107-4}}
+      \item {\textbf{Werdel, T.J.}, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2019}. Restoration of a bighorn sheep population impeded by \textit{Mycoplasma ovipneumoniae} exposure. \textbf{\textit{Restoration Ecology}}, 28(2), 387--395. \url{https://doi.org/https://doi.org/10.1111/rec.13084}}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, T.E. Besser, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2018}. Survival of translocated bighorn sheep in the Deadwood region of the Black Hills, South Dakota. \textbf{\textit{Northwestern Naturalist}}, 99(3),222--231. \url{https://doi.org/10.1898/NWN18-06.1}}
       \end{cvetar}
     }
@@ -128,12 +129,11 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {Palomo-Muñoz, G, \textbf{T.J. Werdel}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A Ahlers. \textbf{In-Revision}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Ecology}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
-      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{In-Review}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}.}
+      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{In-Revision}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}.}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{In-Revision}. Strategic grassland conservation to improve conservation outcomes for swift foxes in a multi-use landscape. \textbf{\textit{Biological Conservation}}.}
       \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
-      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{In-Review}. Strategic grassland conservation to improve conservation outcomes for swift foxes in a multi-use landscape. \textbf{\textit{Biological Conservation}}.}
       \end{cvetar}
     }
 \end{cvpubs}
