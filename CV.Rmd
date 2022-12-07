@@ -117,7 +117,7 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {Hessami, M.A., \textbf{T.J. Werdel}, S.J. Hoagland, and M.T. Kohl. \textbf{In-Press}. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in E. Gomez, C. Bishop, Ryder, and Organ eds. \textbf{\textit{Wildlife Management and Conservation in North America: An Overview}}. Great River Learning of Dubuque, IA.}
+      \item {Hessami, M.A., \textbf{T.J. Werdel}, S.J. Hoagland, and M.T. Kohl. \textbf{2022}. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in C. Bishop, E. Gomez, J. Organ, and T. Ryder eds. \textbf{\textit{Introduction to Wildlife Management and Conservation in North America}}. Great River Learning of Dubuque, IA.}
       \end{cvetar}
     }
 \end{cvpubs}
