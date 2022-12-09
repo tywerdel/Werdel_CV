@@ -101,7 +101,7 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{In-Press}. Strategic grassland conservation to improve conservation outcomes for swift foxes in a multi-use landscape. \textbf{\textit{Biological Conservation}}.}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{In-Press}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Biological Conservation}}.}
       \item {Palomo-Muñoz, G, \textbf{T.J. Werdel}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A Ahlers. \textbf{2022}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Ecology}}. \url{https://doi.org/10.1002/ecy.3945}}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A. Ahlers. \textbf{2022}. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift fox. \textbf{\textit{Landscape Ecology}}, 37(8), 2065--2079. \url{https://doi.org/10.1007/s10980-022-01466-0}}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2021}. Space use and movement patterns of translocated bighorn sheep. \textbf{\textit{Mammalian Biology}}, 101(3),329--344. \url{https://doi.org/10.1007/s42991-021-00107-4}}
