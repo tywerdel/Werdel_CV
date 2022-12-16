@@ -130,9 +130,9 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
-      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{In-Revision}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}.}
+      \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{In-Review}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}.}
       \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
     }
@@ -419,6 +419,8 @@ reviewer %>%
   \cvpub
     {
       \begin{cvetar}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2023}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
       \item {Palomo-Muñoz, G., \textbf{T.J. Werdel}, C.W. Piper, M. Fidno, A.M. Ricketts, and A.A. Ahlers. \textbf{2022}. Local-scale habitat structure mediates interactions between coyotes and lagamorphs. \textbf{\textit{101st Annual Meeting of the American Society of Mammalogists, Tucson, AZ}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M. Peek, and A.A. Ahlers. \textbf{2021}. Scale-specific landscape effects impose range-limiting constraints on the distribution of swift foxes. \textbf{\textit{The Wildlife Society 28th Annual Conference, Virtual}}.}
       \item {Piper, C.W, \textbf{T.J. Werdel}, A.M. Ricketts, D. Sullins, M. Peek, and A.A. Ahlers. \textbf{2021}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairies. \textbf{\textit{The Wildlife Society 28th Annual Conference, Virtual}}.}
