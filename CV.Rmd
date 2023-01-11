@@ -79,18 +79,6 @@ work %>%
   )
 ```
 
-# Teaching Experience
-
-```{r TEACH}
-teach %>%
-  detailed_entries(
-    with = area,
-    what = accomplishment,
-    why = detail,
-    when = year,
-    where = where
-  )
-```
 
 # Publications
 
@@ -138,7 +126,6 @@ teach %>%
     }
 \end{cvpubs}
 ```
-\newpage
 
 # Investigator Grants & Contracts
 
@@ -156,6 +143,50 @@ teach %>%
 \end{cvpubs}
 ```
 
+\newpage
+
+# Teaching Experience
+
+```{r TEACH}
+teach %>%
+  detailed_entries(
+    with = area,
+    what = accomplishment,
+    why = detail,
+    when = year,
+    where = where
+  )
+```
+
+
+# Student Mentorship
+
+## *Graduate Student Advising*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Conner Ties, M.S.}
+    {RWFM, TAMU}
+    {2022 -- Present}
+\end{cvpress}
+```
+
+## *Undergraduate Student Research Advising*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Drake Dancila}
+    {WFSC, TAMU}
+    {2022 -- Present}
+ \cvpres
+    {Lulu Hoffman}
+    {WFSC, TAMU}
+    {2022 -- Present}    
+\end{cvpress}
+```
+\newpage
 
 # Honors & Awards
 
