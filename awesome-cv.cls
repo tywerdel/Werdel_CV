@@ -93,6 +93,7 @@
 }
 
 \RequirePackage{etaremune}
+% Needed to  reverse enumerate
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
 %-------------------------------------------------------------------------------
