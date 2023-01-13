@@ -127,23 +127,6 @@ work %>%
 \end{cvpubs}
 ```
 
-# Investigator Grants & Contracts
-
-## *Funded ($160,000)*
-
-```{=tex}
-\begin{cvpubs}
-  \cvpub
-    {
-      \begin{cvetar}
-      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
-      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000}. PI: \textbf{Ty J. Werdel}.}
-      \end{cvetar}
-    }
-\end{cvpubs}
-```
-
-\newpage
 
 # Teaching Experience
 
@@ -158,6 +141,7 @@ teach %>%
   )
 ```
 
+\newpage
 
 # Student Mentorship
 
@@ -186,8 +170,22 @@ teach %>%
     {2022 -- Present}    
 \end{cvpress}
 ```
-\newpage
 
+# Investigator Grants & Contracts
+
+## *Funded ($160,000)*
+
+```{=tex}
+\begin{cvpubs}
+  \cvpub
+    {
+      \begin{cvetar}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000}. PI: \textbf{Ty J. Werdel}.}
+      \end{cvetar}
+    }
+\end{cvpubs}
+```
 # Honors & Awards
 
 ## *Awards ($121,150)*
