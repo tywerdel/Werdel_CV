@@ -123,6 +123,7 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Why do I hunt?", "Texas A&M University", "2023", "College Station, TX", NA,
   "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
   "Wildlife Professional Experience", "Texas A&M University", "2022", "College Station, TX", NA,
   "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2022", "Manhattan, KS", NA,
