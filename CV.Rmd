@@ -489,3 +489,18 @@ invited %>%
     where = where
   )
 ```
+
+
+\vspace{1\baselineskip}
+## *Guest Lectures*
+
+```{r GUEST}
+guest %>%
+  detailed_entries(
+    with = area,
+    what = accomplishment,
+    why = detail,
+    when = year,
+    where = where
+  )
+```

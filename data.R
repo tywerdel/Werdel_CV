@@ -123,21 +123,12 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
-  "Why do I hunt?", "Texas A&M University", "2023", "College Station, TX", NA,
   "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
-  "Wildlife Professional Experience", "Texas A&M University", "2022", "College Station, TX", NA,
-  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2022", "Manhattan, KS", NA,
   "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
   "Traditional Ecological Knowledge: A Place-Based Perspective", "Texas A&M University", "2021", "College Station, TX", NA,
   "Distribution of Swift Fox in Kansas", "Kansas Department of Wildlife, Parks and Tourism", "2021", "Emporia, KS", NA,
-  "Traditional Ecological Knowledge (TEK) of Wetlands", "Kansas State University", "2021", "Manhattan, KS", NA,
-  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2021", "Manhattan, KS", NA,
-  "Wild Sheep Natural History", "Kansas State University", "2021", "Manhattan, KS", NA,
-  "Bighorn Sheep Capture and Monitoring Techniques", "Kansas State University", "2020", "Manhattan, KS", NA,
-  "Traditional Ecological Knowledge (TEK) of Wetlands", "Kansas State University", "2019", "Manhattan, KS", NA,
   "Keynote Speaker: Youth Wildlife Conservation Experience", "Wild Sheep Foundation Sheep Show", "2019", "Reno, NV", NA,
   "Inclusive Pedagogy Student Panel", "The Wildlife Society Annual Conference", "2018", "Cleveland, OH", NA,
-  "Bighorn Sheep Monitoring", "Kansas State University", "2018", "Manhattan, KS", NA,
   "Marlatt STEM Night", "Marlatt Elementary School", "2018", "Manhattan, KS", NA,
   "Initiating a Student Chapter of The Wildlife Society", "Haskell Indian Nations University", "2018", "Lawrence, KS", NA,
   "Toyota STEM Speaker", "Red Cloud Indian School", "2016", "Pine Ridge, SD", NA,
@@ -145,4 +136,17 @@ invited <- tribble(
   "Bighorn Sheep and Community Interaction", "Kiwanis Club", "2015", "Lead, SD", NA,
   "Graduate School Experience and Preparation", "Chadron State College", "2015", "Chadron, NE", NA,
   "Project WILD, Children and	Wildlife", "Red Cloud Indian School", "2013", "Pine Ridge, SD", NA
+)
+
+guest <- tribble(
+  ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Why I hunt", "RWFM 489 - Texas A&M University", "2023", "College Station, TX", NA,
+  "Wildlife Professional Experience", "RWFM 305 - Texas A&M University", "2022", "College Station, TX", NA,
+  "Bighorn Sheep Capture and Monitoring Techniques", "WOEM 555 - Kansas State University", "2022", "Manhattan, KS", NA,
+  "Traditional Ecological Knowledge (TEK) of Wetlands", "WOEM 561 - Kansas State University", "2021", "Manhattan, KS", NA,
+  "Bighorn Sheep Capture and Monitoring Techniques", "WOEM 555 - Kansas State University", "2021", "Manhattan, KS", NA,
+  "Wild Sheep Natural History", "WOEM 350 - Kansas State University", "2021", "Manhattan, KS", NA,
+  "Bighorn Sheep Capture and Monitoring Techniques", "WOEM 555 - Kansas State University", "2020", "Manhattan, KS", NA,
+  "Traditional Ecological Knowledge (TEK) of Wetlands", "WOEM 561 - Kansas State University", "2019", "Manhattan, KS", NA,
+  "Bighorn Sheep Monitoring", "WOEM 555 - Kansas State University", "2018", "Manhattan, KS", NA,
 )
