@@ -103,7 +103,7 @@ organization <- tribble(
 
 reviewer <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Journal of Mammalogy, PeerJ, Canadian Journal of Zoology", NA, NA, NA, NA, NA, NA, NA
+  "Journal of Mammalogy, PeerJ (2), Canadian Journal of Zoology", NA, NA, NA, NA, NA, NA, NA
 )
  
 
