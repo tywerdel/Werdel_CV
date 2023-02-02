@@ -156,9 +156,12 @@
 \setbool{acvSectionColorHighlight}{true}
 
 % Awesome section color
-\def\@sectioncolor#1#2#3{%
-  \ifbool{acvSectionColorHighlight}{{\color{awesome}#1#2#3}}{#1#2#3}%
-}
+%If you want section heading to be all one color
+\def\@sectioncolor{\color{awesome}}
+%If you want section heading to have first 3 letters color
+%\def\@sectioncolor#1#2#3{%
+%  \ifbool{acvSectionColorHighlight}{{\color{awesome}#1#2#3}}{#1#2#3}%
+%}
 
 
 %-------------------------------------------------------------------------------
