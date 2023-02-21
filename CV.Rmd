@@ -441,6 +441,19 @@ reviewer %>%
 ```
 
 \vspace{-1\baselineskip}
+
+# University Service
+## *Department*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Undergraduate Committee}
+    {RWFM}
+    {2023 -- Present}
+\end{cvpress}
+```
+
 \newpage
 
 # Presentations
