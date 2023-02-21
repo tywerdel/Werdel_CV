@@ -452,6 +452,7 @@ reviewer %>%
   \cvpub
     {
       \begin{cvetar}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2023}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
       \item {Palomo-Muñoz, G., \textbf{T.J. Werdel}, C.W. Piper, M. Fidno, A.M. Ricketts, and A.A. Ahlers. \textbf{2022}. Local-scale habitat structure mediates interactions between coyotes and lagamorphs. \textbf{\textit{101st Annual Meeting of the American Society of Mammalogists, Tucson, AZ}}.}
