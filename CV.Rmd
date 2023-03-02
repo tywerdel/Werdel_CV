@@ -343,7 +343,7 @@ service %>%
  \cvpres
     {Student Development Working Group}
     {The Wildlife Society}
-    {2013 -- Present}
+    {2013 -- 2022}
 \end{cvpress}
 ```
 
@@ -354,13 +354,21 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Southwest Section}
+    {The Wildlife Society}
+    {2023 -- Present}
+ \cvpres
+    {Texas Chapter}
+    {The Wildlife Society}
+    {2023 -- Present}
+ \cvpres
     {Central Mountains and Plains Section}
     {The Wildlife Society}
-    {2018 -- Present}
+    {2018 -- 2022}
  \cvpres
     {Kansas Chapter}
     {The Wildlife Society}
-    {2015 -- Present}
+    {2017 -- 2022}
  \cvpres
     {South Dakota Chapter}
     {The Wildlife Society}
@@ -382,6 +390,10 @@ service %>%
 
 ```{=tex}
 \begin{cvmemb}
+ \cvmem
+    {Society for Range Management}
+    {}
+    {2023 -- Present}
  \cvmem
     {Society for Advancement of Chicanos/Hispanics and Native Americans in Science}
     {}
@@ -429,18 +441,16 @@ service %>%
 
 ## *External Journal Reviewer*
 
-```{r REVIEW}
-reviewer %>%
-  detailed_entries(
-    with = title,
-    what = unit,
-    why = detail,
-    when = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = ""),
-    where = where
-  )
+```{=tex}
+\begin{cvmemb}
+ \cvmem
+    {Canadian Journal of Zoology, Journal of Mammalogy, PeerJ (\textit{2}), Science}
+    {}
+    {}
+\end{cvmemb}
 ```
 
-\vspace{-1\baselineskip}
+\vspace{1\baselineskip}
 
 # University Service
 ## *Department*
@@ -453,6 +463,8 @@ reviewer %>%
     {2023 -- Present}
 \end{cvpress}
 ```
+
+\vspace{-1\baselineskip}
 
 \newpage
 
