@@ -150,8 +150,8 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {Conner Ties, M.S.}
-    {RWFM, TAMU}
+    {Conner Ties}
+    {M.S. Thesis}
     {2022 -- Present}
 \end{cvpress}
 ```
@@ -162,11 +162,11 @@ teach %>%
 \begin{cvpress}
  \cvpres
     {Drake Dancila}
-    {WFSC, TAMU}
+    {B.S.}
     {2022 -- Present}
  \cvpres
     {Lulu Hoffman}
-    {WFSC, TAMU}
+    {B.S.}
     {2022 -- Present}    
 \end{cvpress}
 ```
@@ -453,6 +453,20 @@ service %>%
 \vspace{1\baselineskip}
 
 # University Service
+
+## *Texas A&M University*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Faculty Advisor}
+    {TAMU Student Chapter of The Wildlife Society}
+    {2023 -- Present}
+\end{cvpress}
+```
+
+\vspace{1\baselineskip}
+
 ## *Department*
 
 ```{=tex}
@@ -470,13 +484,15 @@ service %>%
 
 # Presentations
 
-## *Contributed*
+## *Contributed* (*Werdel Wildlfe Lab Member)
 
 ```{=tex}
 \begin{cvpubs}
   \cvpub
     {
       \begin{cvetar}
+      \item A.D. Dancila*, {\textbf{Werdel, T.J.}, S.M Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
+      \item M.G. Hoffman*, M.D. Proctor, {\textbf{Werdel, T.J.}, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2023}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
