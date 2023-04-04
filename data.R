@@ -123,6 +123,7 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "TEK: A Place-Based Perspective", "The SACNAS Diversity in Research Symposium", "2023", "College Station, TX", NA,
   "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
   "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
   "Traditional Ecological Knowledge: A Place-Based Perspective", "Texas A&M University", "2021", "College Station, TX", NA,
@@ -140,6 +141,7 @@ invited <- tribble(
 
 guest <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Occupancy Models to Study Wildlife", "RWFM 689 - Texas A&M University", "2023", "College Station, TX", NA,
   "Professional Wildlife Certification", "RWFM 481 - Texas A&M University", "2023", "College Station, TX", NA,
   "Why I hunt", "RWFM 489 - Texas A&M University", "2023", "College Station, TX", NA,
   "Wildlife Professional Experience", "RWFM 305 - Texas A&M University", "2022", "College Station, TX", NA,
