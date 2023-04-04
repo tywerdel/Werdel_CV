@@ -472,7 +472,7 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {Awards Banquet Planning Committee (Beast Feast Nutria Specialist)}
+    {Beast Feast Planning Committee (\textit{Nutria Specialist})}
     {RWFM}
     {2023 -- Present}
  \cvpres
