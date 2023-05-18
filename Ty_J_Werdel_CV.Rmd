@@ -89,6 +89,7 @@ work %>%
   \cvpub
     {
       \begin{cvetar}
+      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Press}. Direct and indirect landscape-scale pathways structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2023}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}.\url{https://doi.org/10.1016/j.rama.2022.12.004}}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Biological Conservation}}. \url{https://doi.org/10.1016/j.biocon.2022.109864}}
       \item {Palomo-Muñoz, G, \textbf{T.J. Werdel}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A Ahlers. \textbf{2022}. Spatiotemporal distributions of mammals occurring in an agro-prairie ecosystem. \textbf{\textit{Ecology}}. \url{https://doi.org/10.1002/ecy.3945}}
@@ -119,7 +120,6 @@ work %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairie. \textbf{\textit{Journal of Mammalogy}}.}
       \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
@@ -444,7 +444,7 @@ service %>%
 ```{=tex}
 \begin{cvmemb}
  \cvmem
-    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Mammalogy, PeerJ (\textit{2}), Science}
+    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Mammalogy, PeerJ (\textit{2}), Science, Journal of Wildlife Management}
     {}
     {}
 \end{cvmemb}
