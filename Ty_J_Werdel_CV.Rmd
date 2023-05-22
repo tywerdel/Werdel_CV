@@ -150,8 +150,12 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {David Pearce}
+    {M.S.}
+    {2023 -- Present}
+ \cvpres
     {Conner Ties}
-    {M.S. Thesis}
+    {M.S.}
     {2022 -- Present}
 \end{cvpress}
 ```
@@ -167,7 +171,7 @@ teach %>%
  \cvpres
     {Lulu Hoffman}
     {B.S.}
-    {2022 -- Present}    
+    {2022 -- 2023}    
 \end{cvpress}
 ```
 
@@ -444,7 +448,7 @@ service %>%
 ```{=tex}
 \begin{cvmemb}
  \cvmem
-    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Mammalogy, PeerJ (\textit{2}), Science, Journal of Wildlife Management}
+    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Mammalogy, Journal of Wildlife Management, PeerJ (\textit{2}), Science}
     {}
     {}
 \end{cvmemb}
@@ -472,7 +476,7 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {Beast Feast Planning Committee (\textit{Nutria Specialist})}
+    {Awards Committee}
     {RWFM}
     {2023 -- Present}
  \cvpres
