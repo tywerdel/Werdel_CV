@@ -57,12 +57,14 @@ edu <- tribble(
 
 work <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Vice Chancellor’s Postdoctoral Research Fellow", "Department of Rangeland, Wildlife, and Fisheries Management, Texas A&M University", NA, 2022, "Present", NA, "College Station, TX", NA,
+  "Assistant Professor", "Department of Rangeland, Wildlife, and Fisheries Management, Texas A&M University", NA, 2023, "Present", NA, "College Station, TX", NA,
+  "Vice Chancellor’s Postdoctoral Research Fellow", "Department of Rangeland, Wildlife, and Fisheries Management, Texas A&M University", NA, 2022, NA, 2023, "College Station, TX", NA,
   "Graduate Research and Teaching Assistant", "Department of Horticulture and Natural Resources, Kansas State University", NA, 2017, NA, 2022, "Manhattan, KS", NA,
   "Graduate Research and Teaching Assistant", "Department of Natural Resource Management, South Dakota State University", NA, 2014, NA, 2017, "Brookings, SD", NA,
   "GIS Technician", "North Platte Natural Resources District", NA, 2014, NA, 2014, "Scottsbluff, NE",NA,
   "Undergraduate Researcher", "Sevilleta LTER Research Experience", NA, 2013, NA, 2013, "Socorro, NM",NA,
-  "Construction Foreman", "Werdel Steel Construction", NA, 1998, NA, 2013, "Chadron, NE",NA
+  "Construction Foreman", "Werdel Steel Construction", NA, 2005, NA, 2013, "Chadron, NE",NA,
+  "Construction Laborer", "Werdel Steel Construction", NA, 1998, NA, 2005, "Chadron, NE",NA
 )
 
 service <- tribble(
