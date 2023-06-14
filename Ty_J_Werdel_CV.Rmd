@@ -150,6 +150,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Lulu Hoffman}
+    {M.S.}
+    {2023 -- Present}
+ \cvpres
     {David Pearce}
     {M.S.}
     {2023 -- Present}
@@ -165,9 +169,13 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Daniel Whitman}
+    {B.S.}
+    {2023 -- 2023}
+ \cvpres
     {Drake Dancila}
     {B.S.}
-    {2022 -- Present}
+    {2022 -- 2023}
  \cvpres
     {Lulu Hoffman}
     {B.S.}
@@ -184,8 +192,9 @@ teach %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000}. Co-PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
-      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000}. PI: \textbf{Ty J. Werdel}.}
+      \item {\textbf{USDA APHIS Wildlife Services}. 2023-2024. Spatial interactions and potential disease transmission of free-ranging native and exotic ungulates. \textbf{\$225,437; \textit{Under Review}}. PI: \textbf{Ty J. Werdel}.}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000; \textit{Funded}}. PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
+      \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \end{cvetar}
     }
 \end{cvpubs}
