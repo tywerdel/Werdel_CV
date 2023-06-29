@@ -170,7 +170,7 @@ teach %>%
 \begin{cvpress}
  \cvpres
     {Daniel Whitman}
-    {B.S.}
+    {REU}
     {2023 -- 2023}
  \cvpres
     {Drake Dancila}
@@ -185,15 +185,19 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded ($160,000)*
+## *Funded ($171,200)*
 
 ```{=tex}
 \begin{cvpubs}
   \cvpub
     {
       \begin{cvetar}
+      \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
+      \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife. \textbf{\$3,399,877; \textit{Under Review}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel}.}
+      \item {\textbf{National Science Foundation}. 2023-2025. Incorporating Native American partnerships and knowledge into Great Plains fire science. \textbf{\$199,404; \textit{Under Review}}. PI: David  Matarrita, Co-PIs: Bradford Wilcox  and \textbf{Ty J. Werdel}.}
       \item {\textbf{USDA APHIS Wildlife Services}. 2023-2024. Spatial interactions and potential disease transmission of free-ranging native and exotic ungulates. \textbf{\$225,437; \textit{Under Review}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000; \textit{Funded}}. PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
+      \item {\textbf{Private Donation}. 2023. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$1,200; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \end{cvetar}
     }
