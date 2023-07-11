@@ -1,7 +1,7 @@
 ---
 name: Ty J.
 surname: Werdel
-position: "Vice Chancelor's Postdoctoral Fellow"
+position: "Assistant Professor"
 address: "Department of Rangeland, Wildlife and Fisheries Management - Texas A&M University, College Station, TX"
 profilepic: "headshot_cowboy.jpg"
 www: "werdelwildlife.com"
