@@ -512,7 +512,8 @@ service %>%
   \cvpub
     {
       \begin{cvetar}
-      \item {M.G. Hoffman\textbf{*}, \textbf{Werdel, T.J.}, M.D. Proctor, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{Ecological Integration Symposium 2023, College Station, TX}}.}
+      \item {D. Whitman\textbf{*} and \textbf{Werdel, T.J.}. \textbf{2023}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{College of Agriculture and Life Sciences Summer Undergraduate Research Symposium, College Station, TX}}.}
+      \item {M.G. Hoffman\textbf{*}, \textbf{Werdel, T.J.}, M.D. Proctor, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}
       \item {A.D. Dancila\textbf{*}, \textbf{Werdel, T.J.}, S.M Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
       \item {M.G. Hoffman\textbf{*}, M.D. Proctor, \textbf{Werdel, T.J.}, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
