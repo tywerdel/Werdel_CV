@@ -154,6 +154,10 @@ teach %>%
     {M.S.}
     {2023 -- Present}
  \cvpres
+    {Kayla Art}
+    {M.N.R.D.}
+    {2023 -- Present}
+ \cvpres
     {David Pearce}
     {M.S.}
     {2023 -- Present}
@@ -170,7 +174,7 @@ teach %>%
 \begin{cvpress}
  \cvpres
     {Daniel Whitman}
-    {REU}
+    {R.E.U.}
     {2023 -- 2023}
  \cvpres
     {Drake Dancila}
