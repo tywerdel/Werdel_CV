@@ -189,7 +189,7 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded ($3,571,077)*
+## *Funded (Total: $3,571,077, Lab Allocated: $371,200)*
 
 ```{=tex}
 \begin{cvpubs}
