@@ -187,6 +187,30 @@ teach %>%
 \end{cvpress}
 ```
 
+## *Student Honors & Awards*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {RWFM Graduate Student Travel Grant}
+    {Conner Ties}
+    {2023}
+  \cvpres
+    {RWFM Graduate Student Travel Grant}
+    {David Pearce}
+    {2023}
+ \cvpres
+    {RWFM Excellence Award for Undergraduates}
+    {Drake Dancila}
+    {2023}
+  \cvpres
+    {RWFM Excellence Award for Undergraduates}
+    {Lulu Hoffman}
+    {2023}
+\end{cvpress}
+
+```
+
 # Investigator Grants & Contracts
 
 ## *Funded (Total: $3,571,077, Lab Allocated: $371,200)*
@@ -197,9 +221,9 @@ teach %>%
     {
       \begin{cvetar}
       \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
-      \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife. \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel}.}
+      \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife. \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$200,000)}.}
       \item {\textbf{National Science Foundation}. 2023-2025. Incorporating Native American partnerships and knowledge into Great Plains fire science. \textbf{\$199,404; \textit{Under Review}}. PI: David  Matarrita, Co-PIs: Bradford Wilcox  and \textbf{Ty J. Werdel}.}
-      \item {\textbf{USDA APHIS Wildlife Services}. 2023-2024. Spatial interactions and potential disease transmission of free-ranging native and exotic ungulates. \textbf{\$225,437; \textit{Under Review}}. PI: \textbf{Ty J. Werdel}.}
+      \item {\textbf{USDA APHIS Wildlife Services}. 2023-2024. Spatial interactions and potential disease transmission of free-ranging native and exotic ungulates. \textbf{\$225,437; \textit{Not Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000; \textit{Funded}}. PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
       \item {\textbf{Private Donation}. 2023. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$1,200; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2025. River otter (\textit{Lontra canadensis}) population dynamics in Texas. \textbf{\$60,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
