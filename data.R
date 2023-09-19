@@ -127,6 +127,7 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "TEK of Wetlands", "Kansas State University", "2023", "Manhattan, KS", NA,
   "TEK: A Place-Based Perspective", "The SACNAS Diversity in Research Symposium", "2023", "College Station, TX", NA,
   "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
   "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
