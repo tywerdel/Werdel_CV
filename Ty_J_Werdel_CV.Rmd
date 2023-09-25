@@ -114,6 +114,18 @@ work %>%
 \end{cvpubs}
 ```
 
+## *Book Reviews*
+```{=tex}
+\begin{cvpubs}
+  \cvpub
+    {
+      \begin{cvetar}
+      \item {\textbf{Werdel, T.J.} \textbf{2023}. Wildlife Management and Landscapes: Principles and Applications. Journal of Wildlife Management \textit{In Press}.}
+      \end{cvetar}
+    }
+\end{cvpubs}
+```
+
 ## *In-Revision/Review*
 ```{=tex}
 \begin{cvpubs}
