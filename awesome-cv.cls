@@ -93,6 +93,8 @@
 }
 
 \RequirePackage{etaremune}
+\RequirePackage{url}
+\RequirePackage{xurl}
 % Needed to  reverse enumerate
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations

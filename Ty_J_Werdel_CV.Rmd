@@ -12,7 +12,7 @@ linkedin: tywerdel
 twitter: tywerdel
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
-aboutme: "My research interests include the fields of Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes. I am also interested in software programming to advance my professional acumen, with this CV being compiled with code."
+aboutme: "My research interests include the fields of Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
 docname: CV
 output: vitae::awesomecv
 ---
@@ -84,9 +84,10 @@ work %>%
 
 ## *Peer-Reviewed*
 
+\vspace{1\baselineskip}
+
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{2023}. Direct and indirect landscape-scale pathways structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}. \url{https://doi.org/10.1093/jmammal/gyad065}}
@@ -102,10 +103,14 @@ work %>%
 \end{cvpubs}
 ```
 
+\vspace{1\baselineskip}
+
 ## *Book Chapters*
+
+\vspace{1\baselineskip}
+
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
       \item {Hessami, M.A., \textbf{T.J. Werdel}, S.J. Hoagland, and M.T. Kohl. \textbf{2022}. Melding Past, Present, and Future: The importance of tribal management in wildlife conservation and management. Chapter 1 in C. Bishop, E. Gomez, J. Organ, and T. Ryder eds. \textbf{\textit{Introduction to Wildlife Management and Conservation in North America}}. Great River Learning of Dubuque, IA.}
@@ -114,10 +119,14 @@ work %>%
 \end{cvpubs}
 ```
 
+\vspace{1\baselineskip}
+
 ## *Book Reviews*
+
+\vspace{1\baselineskip}
+
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
       \item {\textbf{Werdel, T.J.} \textbf{2023}. Wildlife Management and Landscapes: Principles and Applications. \textbf{\textit{Journal of Wildlife Management}}. \url{https://doi.org/10.1002/jwmg.22512}}
@@ -126,12 +135,17 @@ work %>%
 \end{cvpubs}
 ```
 
+\vspace{1\baselineskip}
+
 ## *In-Revision/Review*
+
+\vspace{1\baselineskip}
+
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
+      \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{In-Review}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Journal of Wildlife Management}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairie. \textbf{\textit{Journal of Mammalogy}}.}
       \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
@@ -139,7 +153,7 @@ work %>%
 \end{cvpubs}
 ```
 
-
+\vspace{1\baselineskip}
 # Teaching Experience
 
 ```{r TEACH}
@@ -235,14 +249,15 @@ teach %>%
 
 ## *Funded (Total: $3,671,077, Lab Allocated: $371,200)*
 
+\vspace{1\baselineskip}
+
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
       \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
-      \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife. \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$200,000)}.}
+      \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife.    \\ \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$200,000)}.}
       \item {\textbf{National Science Foundation}. 2023-2025. Incorporating Native American partnerships and knowledge into Great Plains fire science. \textbf{\$199,404; \textit{Not Funded}}. PI: David  Matarrita, Co-PIs: Bradford Wilcox  and \textbf{Ty J. Werdel}.}
       \item {\textbf{USDA APHIS Wildlife Services}. 2023-2024. Spatial interactions and potential disease transmission of free-ranging native and exotic ungulates. \textbf{\$225,437; \textit{Not Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Department of Rangeland, Wildlife and Fisheries Management}. 2023-2024. Long-term wildlife monitoring for unmanaged rangelands transitioning to planned grazing management. \textbf{\$100,000; \textit{Funded}}. PIs: Stephen L. Webb and \textbf{Ty J. Werdel}.}
@@ -374,7 +389,6 @@ teach %>%
 
 ```
 
-\newpage
 
 # Professional Service
 
@@ -552,19 +566,17 @@ service %>%
 \end{cvpress}
 ```
 
-\vspace{-1\baselineskip}
-
-\newpage
+\vspace{1\baselineskip}
 
 # Presentations
 
 ## *Contributed* (*Werdel Wildlfe Lab Member)
-
+\vspace{1\baselineskip}
 ```{=tex}
 \begin{cvpubs}
-  \cvpub
     {
       \begin{cvetar}
+      \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Using community science to determine collared peccary spatial distribution in Texas. \textbf{\textit{The Wildlife Society 30th Annual Conference, Louisville, KY}}.}
       \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Mapping collared peccary habitat: species distribution modeling in the south Texas plains. \textbf{\textit{Texas Section Society For Range Management, Bastrop, TX}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2023}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{Macalester College Summer Showcase, Saint Paul, MN}}.}
       \item {Dancila, A.D.\textbf{*}, \textbf{T.J. Werdel}, S.M Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{RWFM Convocation, College Station, TX}}.}
