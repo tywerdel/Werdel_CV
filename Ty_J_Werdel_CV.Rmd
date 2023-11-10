@@ -524,7 +524,7 @@ service %>%
 ```{=tex}
 \begin{cvmemb}
  \cvmem
-    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Mammalogy, Journal of Wildlife Management, PeerJ (\textit{2}), Science}
+    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Fish and Wildlife Management, Journal of Mammalogy, PeerJ (\textit{2}), The Journal of Wildlife Management, Science}
     {}
     {}
 \end{cvmemb}
