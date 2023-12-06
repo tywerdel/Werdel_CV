@@ -12,7 +12,7 @@ linkedin: tywerdel
 twitter: tywerdel
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
-aboutme: "My research interests include the fields of Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
+aboutme: "My research interests include the fields of Rangeland and Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
 docname: CV
 output: vitae::awesomecv
 ---
@@ -177,23 +177,23 @@ teach %>%
 \begin{cvpress}
  \cvpres
     {Amanda Laboy}
-    {M.S.}
+    {M.S., TAMU RWFM}
     {2023 -- Present}
  \cvpres
     {Kayla Art}
-    {M.N.R.D.}
+    {M.N.R.D., TAMU RWFM}
     {2023 -- Present} 
  \cvpres
     {Lulu Hoffman}
-    {M.S.}
+    {M.S., TAMU RWFM}
     {2023 -- Present}
  \cvpres
     {David Pearce}
-    {M.S.}
+    {M.S., TAMU RWFM}
     {2023 -- Present}
  \cvpres
     {Conner Ties}
-    {M.S.}
+    {M.S., TAMU RWFM}
     {2022 -- Present}
 \end{cvpress}
 ```
@@ -204,16 +204,27 @@ teach %>%
 \begin{cvpress}
  \cvpres
     {Daniel Whitman}
-    {R.E.U.}
-    {2023 -- 2023}
+    {B.S., Macalester College REU}
+    {2023 -- Present}
  \cvpres
     {Drake Dancila}
-    {B.S.}
+    {B.S., TAMU RWFM}
     {2022 -- 2023}
  \cvpres
     {Lulu Hoffman}
-    {B.S.}
+    {B.S., TAMU RWFM}
     {2022 -- 2023}    
+\end{cvpress}
+```
+
+## *Secondary School Student Research Advising*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Sebastian Kuo}
+    {H.S., Carnegie Vanguard High School}
+    {2023 -- Present}
 \end{cvpress}
 ```
 
@@ -579,12 +590,12 @@ service %>%
       \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Using community science to determine collared peccary spatial distribution in Texas. \textbf{\textit{The Wildlife Society 30th Annual Conference, Louisville, KY}}.}
       \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Mapping collared peccary habitat: species distribution modeling in the south Texas plains. \textbf{\textit{Texas Section Society For Range Management, Bastrop, TX}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2023}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{Macalester College Summer Showcase, Saint Paul, MN}}.}
-      \item {Dancila, A.D.\textbf{*}, \textbf{T.J. Werdel}, S.M Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{RWFM Convocation, College Station, TX}}.}
+      \item {Dancila, A.D.\textbf{*}, \textbf{T.J. Werdel}, S.M. Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{RWFM Convocation, College Station, TX}}.}
       \item {Hoffman, M.G.\textbf{*}, M.D. Proctor, \textbf{T.J. Werdel}, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{RWFM Convocation, College Station, TX}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel.}. \textbf{2023}. Fine-scale landscape features influence fox squirrel presence on urban campus. \textbf{\textit{LAUNCH Summer Undergraduate Research Symposium, College Station, TX}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2023}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{College of Agriculture and Life Sciences Summer Undergraduate Research Symposium, College Station, TX}}.}
       \item {Hoffman, M.G.\textbf{*}, \textbf{T.J. Werdel}, M.D. Proctor, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}
-      \item {Dancila, A.D.\textbf{*}, \textbf{T.J. Werdel}, S.M Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
+      \item {Dancila, A.D.\textbf{*}, \textbf{T.J. Werdel}, S.M. Chinn, J.C. Beasley, and S.L. Webb. \textbf{2023}. Analysis of reproductive parameters of wild pigs in southcentral Oklahoma. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
       \item {Hoffman, M.G.\textbf{*}, M.D. Proctor, \textbf{T.J. Werdel}, and S.L. Webb. \textbf{2023}. Activity patterns and potential interactions among cattle, white-tailed deer, and wild pigs. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A. Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2023}. Landscape-scale effects structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
