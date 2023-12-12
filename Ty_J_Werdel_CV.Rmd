@@ -232,6 +232,10 @@ teach %>%
 
 ```{=tex}
 \begin{cvpress}
+  \cvpres
+    {RWFM Graduate Student Travel Grant}
+    {David Pearce}
+    {2024}
  \cvpres
     {RWFM Graduate Student Travel Grant}
     {Conner Ties}
