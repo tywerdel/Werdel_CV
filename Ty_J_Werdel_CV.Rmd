@@ -171,7 +171,7 @@ teach %>%
 
 # Student Mentorship
 
-## *Graduate Student Advising*
+## *Graduate Student Research Advising*
 
 ```{=tex}
 \begin{cvpress}
@@ -227,6 +227,19 @@ teach %>%
     {2023 -- Present}
 \end{cvpress}
 ```
+
+
+## *Graduate Student Committee Member*
+
+```{=tex}
+\begin{cvpress}
+ \cvpres
+    {Jake Hanes}
+    {M.S., TAMU SCSC}
+    {2024 -- Present}
+\end{cvpress}
+```
+
 
 ## *Student Honors & Awards*
 
@@ -538,16 +551,40 @@ service %>%
 
 \vspace{1\baselineskip}
 
-## *External Journal Reviewer*
-
+## *External Journal Reviewer (9)*
 ```{=tex}
 \begin{cvmemb}
  \cvmem
-    {Canadian Journal of Zoology, Frontiers in Ecology and the Environment, Journal of Fish and Wildlife Management, Journal of Mammalogy, PeerJ (\textit{2}), The Journal of Wildlife Management (\textit{2}), Science}
+    {The Journal of Wildlife Management}
+    {(2)}
+    {2023, 2023}
+ \cvmem
+    {Journal of Fish and Wildlife Management}
     {}
+    {2023}
+ \cvmem
+    {PeerJ}
+    {(2)}
+    {2022, 2023}
+ \cvmem
+    {Frontiers in Ecology and the Environment}
     {}
+    {2023}
+ \cvmem
+    {Science}
+    {}
+    {2023}
+ \cvmem
+    {Canadian Journal of Zoology}
+    {}
+    {2022}
+ \cvmem
+    {Journal of Mammalogy}
+    {}
+    {2021}
 \end{cvmemb}
 ```
+
 
 \vspace{1\baselineskip}
 
@@ -557,6 +594,10 @@ service %>%
 
 ```{=tex}
 \begin{cvpress}
+ \cvpres
+    {Faculty Reviewer}
+    {Avilés-Johnson Fellowship Program}
+    {2024} 
  \cvpres
     {Faculty Advisor}
     {TAMU Student Chapter of The Wildlife Society}
