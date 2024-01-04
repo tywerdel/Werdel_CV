@@ -287,6 +287,7 @@ teach %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Resource selection and spatial interactions of native, exotic, and domestic ungulates on Texas rangelands. \textbf{\$150,000; \textit{Submitted}}. PI: \textbf{Ty J. Werdel}, Co-PIs: Jacob E. Lucero, Humberto Perotto, and Jacob L. Dykes.}
       \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife.    \\ \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$200,000)}.}
