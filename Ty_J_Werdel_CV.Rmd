@@ -637,6 +637,7 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Palomo-Muñoz, G., \textbf{T.J. Werdel}, C.W. Piper, M. Fidino, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers \textbf{2024}. Habitat use by black-tailed jackrabbits and eastern cottontail rabbits in a multipredator landscape. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
       \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Using community science to determine collared peccary spatial distribution in Texas. \textbf{\textit{The Wildlife Society 30th Annual Conference, Louisville, KY}}.}
       \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2023}. Mapping collared peccary habitat: species distribution modeling in the south Texas plains. \textbf{\textit{Texas Section Society For Range Management, Bastrop, TX}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2023}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{Macalester College Summer Showcase, Saint Paul, MN}}.}
