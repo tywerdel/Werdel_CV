@@ -95,6 +95,7 @@
 \RequirePackage{etaremune}
 \RequirePackage{url}
 \RequirePackage{xurl}
+\RequirePackage{longtable}
 % Needed to  reverse enumerate
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
@@ -747,21 +748,15 @@
 
 % Define an environment for cvpres
 \newenvironment{cvpress}{
-  \begin{center}
-    \setlength\tabcolsep{0pt}
-    \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{15cm} R{2cm}}
+  \begin{longtable}{@{} L{15cm} R{2cm} @{}}
 }{
-    \end{tabular*}
-  \end{center}
-  
+  \end{longtable}
 }
 
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvpres{<title>}{<location>}{<date>}
 \newcommand*{\cvpres}[3]{
-  \honorpositionstyle{#1}, \honortitlestyle{#2} & \honordatestyle{#3}
-  \\
+  \honorpositionstyle{#1}, \honortitlestyle{#2} & \honordatestyle{#3} \\
 }
 
 % Define an environment for cvmem
