@@ -283,7 +283,7 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded (Total: $3,671,077, Lab Allocated: $341,200)*
+## *Funded (Total: $3,791,193, Lab Allocated: $371,229)*
 
 \vspace{1\baselineskip}
 
@@ -291,7 +291,8 @@ teach %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Resource selection and spatial interactions of native, exotic, and domestic ungulates on Texas rangelands. \textbf{\$150,000; \textit{Submitted}}. PI: \textbf{Ty J. Werdel}, Co-PIs: Jacob E. Lucero, Humberto Perotto, and Jacob L. Dykes.}
+      \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Working towards healthy rangelands: understanding the factors limiting the adoption of grazing, fire, and wildfire management practices among exurban landowners. \textbf{\$120,116; \textit{Funded}}. PI: David  Matarrita, Co-PIs: Rafael Landeverde, \textbf{Ty J. Werdel (Lab Allocated: \$30,029)}, and Morgan Treadwell.}
+      \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Resource selection and spatial interactions of native, exotic, and domestic ungulates on Texas rangelands. \textbf{\$150,000; \textit{Not Funded}}. PI: \textbf{Ty J. Werdel}, Co-PIs: Jacob E. Lucero, Humberto Perotto, and Jacob L. Dykes.}
       \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife.    \\ \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$170,000)}.}
@@ -304,6 +305,9 @@ teach %>%
     }
 \end{cvpubs}
 ```
+
+\vspace{1\baselineskip}
+
 # Honors & Awards
 
 ## *Awards ($121,150)*
@@ -556,9 +560,13 @@ service %>%
 
 \vspace{1\baselineskip}
 
-## *External Journal Reviewer (9)*
+## *External Journal Reviewer (10)*
 ```{=tex}
 \begin{cvmemb}
+ \cvmem
+    {Movement Ecology}
+    {}
+    {2024}
  \cvmem
     {The Journal of Wildlife Management}
     {(2)}
