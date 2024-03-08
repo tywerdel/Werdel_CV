@@ -250,6 +250,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
   \cvpres
+    {AgGIE Leadership Community Student Development Grant}
+    {Amanda Laboy}
+    {2024}
+  \cvpres
     {RWFM Graduate Student Travel Grant}
     {David Pearce}
     {2024}
