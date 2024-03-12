@@ -90,7 +90,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{In Press}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Journal of Wildlife Management}}.}
+      \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{In Press}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Journal of Wildlife Management}}. \textit{Accepted manuscript available upon request}.}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{2023}. Direct and indirect landscape-scale pathways structure carnivore communities in an agro-prairie ecosystem. \textbf{\textit{Journal of Mammalogy}}. \url{https://doi.org/10.1093/jmammal/gyad065}}
       \item {\textbf{Werdel, T.J.}, J.A. Jenks, J.T. Kanta, C.P. Lehman, and T.J. Frink. \textbf{2023}. Resource selection and herbaceous biomass at foraging sites of translocated bighorn sheep. \textbf{\textit{Rangeland Ecology and Management}}. \url{https://doi.org/10.1016/j.rama.2022.12.004}}
       \item {\textbf{Werdel, T.J.}, C.W. Piper, A.M. Ricketts, M.S. Peek, D.S. Sullins, and A.A Ahlers. \textbf{2023}. Strategic grassland conservation for swift foxes in multi-use landscapes. \textbf{\textit{Biological Conservation}}. \url{https://doi.org/10.1016/j.biocon.2022.109864}}
