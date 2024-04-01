@@ -251,6 +251,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
   \cvpres
+    {American Society of Mammalogists Student Travel Award}
+    {David Pearce}
+    {2024}
+  \cvpres
     {AgGIE Leadership Community Student Development Grant}
     {Amanda Laboy}
     {2024}
