@@ -674,7 +674,8 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
+       \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}
+       \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
        \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{2024}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
        \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2024}. Mapping collared peccary habitat: species distribution modeling in the South Texas Plains and Trans-Pecos ecoregions. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
       \item {Palomo-Muñoz, G., \textbf{T.J. Werdel}, C.W. Piper, M. Fidino, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2024}. Habitat use by black-tailed jackrabbits and eastern cottontail rabbits in a multipredator landscape. \textbf{\textit{Kansas Natural Resources Conference, Manhattan, KS}}.}
