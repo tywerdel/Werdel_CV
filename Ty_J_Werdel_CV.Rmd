@@ -649,8 +649,8 @@ service %>%
 
 ```{=tex}
 \begin{cvpress}
-  \cvpres
-    {Caesar Kleberg Chair Search Committee}
+ \cvpres
+    {OEM Curriculum Committee}
     {RWFM}
     {2023 -- Present}
  \cvpres
@@ -660,7 +660,11 @@ service %>%
  \cvpres
     {Undergraduate Committee}
     {RWFM}
-    {2023 -- Present}
+    {2023 -- Present}  
+ \cvpres
+    {Caesar Kleberg Chair Search Committee}
+    {RWFM}
+    {2023 -- 2024}
 \end{cvpress}
 ```
 
@@ -675,6 +679,7 @@ service %>%
     {
       \begin{cvetar}
        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}
+       \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{Diversity in Science Symposium, College Station, TX}}.}
        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
        \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{2024}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
        \item {Ties, C.\textbf{*}, S.L. Webb, and \textbf{T.J. Werdel}. \textbf{2024}. Mapping collared peccary habitat: species distribution modeling in the South Texas Plains and Trans-Pecos ecoregions. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Houston, TX}}.}
