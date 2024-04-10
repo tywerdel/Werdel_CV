@@ -235,6 +235,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Kylie Perez}
+    {Ph.D., TAMU RWFM}
+    {2024 -- Present}
+ \cvpres
     {Jake Hanes}
     {M.S., TAMU SCSC}
     {2024 -- Present}
