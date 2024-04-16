@@ -255,6 +255,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
   \cvpres
+    {RWFM Master's Student Excellence Award}
+    {Conner Ties}
+    {2024}
+  \cvpres
     {American Society of Mammalogists Student Travel Award}
     {David Pearce}
     {2024}
@@ -283,11 +287,11 @@ teach %>%
     {David Pearce}
     {2023}
  \cvpres
-    {RWFM Excellence Award for Undergraduates}
+    {RWFM Undergraduate Student Excellence Award}
     {Drake Dancila}
     {2023}
   \cvpres
-    {RWFM Excellence Award for Undergraduates}
+    {RWFM Undergraduate Student Excellence Award}
     {Lulu Hoffman}
     {2023}
 \end{cvpress}
