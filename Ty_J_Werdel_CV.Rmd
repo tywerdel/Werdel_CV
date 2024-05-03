@@ -250,7 +250,7 @@ teach %>%
  \cvpres
     {Sebastian Kuo}
     {H.S., Carnegie Vanguard High School}
-    {2023 -- Present}
+    {2023 -- 2024}
 \end{cvpress}
 ```
 
@@ -512,9 +512,9 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {Rangeland Wildlife Working Group}
-    {The Wildlife Society}
-    {2018 -- Present}
+  {Rangeland Wildlife Working Group}
+  {The Wildlife Society}
+  {2018 -- Present}
  \cvpres
     {Native Peoples' Wildlife Management Working Group}
     {The Wildlife Society}
