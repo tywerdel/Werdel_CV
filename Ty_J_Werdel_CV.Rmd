@@ -667,6 +667,10 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Poster Presentation Judge}
+    {COALS Research Symposium}
+    {2024} 
+ \cvpres
     {Faculty Reviewer}
     {Avilés-Johnson Fellowship Program}
     {2024} 
