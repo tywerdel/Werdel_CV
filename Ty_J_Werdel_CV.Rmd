@@ -164,6 +164,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {\textbf{2024.} Focus at Four: A{\&}M students study squirrel behavior. \textbf{\textit{KBTX}.} (\url{https://www.kbtx.com/2024/05/12/focus-four-am-students-study-squirrel-behavior/?fbclid=IwZXh0bgNhZW0CMTEAAR2XGXfnp_R-U-YDyr16AQMmBf1aUoPf-45C_18aMnwWeL-Ic3r2SAJ77Ys_aem_AV8Gks9w0tGnZqMjF7L5HG_F-1POM2arX0LlDtu47ggTo4PV0GfAVvL87AHUi-KwDACbwi6gItJ7cx0MBeWycppa})}
       \item {\textbf{2024.} Q{\&}A: TEK AND THE WILDLIFE PROFESSION. \textbf{\textit{The Wildlife Society}.} (\url{https://wildlife.org/qa-tek-and-the-wildlife-profession/?utm_content=290664870&utm_medium=social&utm_source=twitter&hss_channel=tw-26287962})}
       \item {\textbf{2024.} Students Gather Data On Campus Squirrels As Part Of Urban Wildlife Research Effort. \textbf{\textit{Texas A{\&}M TODAY}.} (\url{https://today.tamu.edu/2024/04/24/students-gather-data-on-campus-squirrels-as-part-of-urban-wildlife-research-effort/})}
       \item {\textbf{2024.} Scholarly squirrels: Exploring the dynamics of Texas A{\&}M’s campus wildlife.  \textbf{\textit{AgriLife TODAY}.} (\url{https://agrilifetoday.tamu.edu/2024/04/19/scholarly-squirrels-exploring-the-dynamics-of-texas-ams-campus-wildlife/}) (\url{https://youtu.be/Bperu7Zza3c?si=RNfih9hkZkrok2JL})}
