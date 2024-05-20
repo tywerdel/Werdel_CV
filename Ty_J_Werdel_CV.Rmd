@@ -282,6 +282,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
   \cvpres
+    {TAMU GPS Graduate Student Research and Presentation Travel Award}
+    {Lulu Hoffman}
+    {2024}
+  \cvpres
     {RWFM Summer Graduate Student Travel Grant (x2)}
     {David Pearce}
     {2024}
