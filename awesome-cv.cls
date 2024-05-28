@@ -748,7 +748,7 @@
 
 % Define an environment for cvpres
 \newenvironment{cvpress}{
-  \begin{longtable}{@{} L{15cm} R{2cm} @{}}
+  \begin{longtable}{@{} L{15.45cm} R{2.3cm} @{}}
 }{
   \end{longtable}
 }
