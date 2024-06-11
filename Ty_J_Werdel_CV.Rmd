@@ -734,6 +734,7 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+       \item {Pearce, D.L.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Tails on the Great Plains: Interspecific interactions between two cervids in western Kansas. \textbf{\textit{103rd Annual Meeting of the American Society of Mammalogists, Boulder, CO}}.}
        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}
        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{Diversity in Science Symposium, College Station, TX}}.}
        \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}
