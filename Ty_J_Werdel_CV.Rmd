@@ -147,6 +147,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{In-Review}. Campus fox squirrel presence influenced by fine-scale landscape characteristics. \textbf{\textit{Ecology and Evolution}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairie. \textbf{\textit{Journal of Mammalogy}}.}
       \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
@@ -281,6 +282,14 @@ teach %>%
 
 ```{=tex}
 \begin{cvpress}
+  \cvpres
+    {Houston Safari Club Foundation Dan L. Duncan Scholarship}
+    {Conner Ties}
+    {2024}
+  \cvpres
+    {Houston Safari Club Foundation Dan L. Duncan Scholarship}
+    {David Pearce}
+    {2024}
   \cvpres
     {TAMU GPS Graduate Student Research and Presentation Travel Award}
     {Lulu Hoffman}
