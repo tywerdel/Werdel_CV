@@ -113,9 +113,9 @@ reviewer <- tribble(
 
 teach <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
-  "Texas A&M University", "Instructor", "2023 -- Present", "College Station, TX", "Techniques of Wildlife Management, RWFM 408 & WFSC 638",
-  "Texas A&M University", "Co-Instructor", "2022 -- 2023", "College Station, TX", "Special Topics in Traditional Ecological Knowledge, RWFM 689",
-  "Texas A&M University", "Co-Instructor", "2022 -- 2023", "College Station, TX", "Techniques of Wildlife Management, RWFM 408 & WFSC 638",
+  "Texas A&M University", "Instructor", "2022 -- Present", "College Station, TX", "Wildlife Tracks & Sign, RWFM 402 & RWFM 602",
+  "Texas A&M University", "Instructor", "2022 -- Present", "College Station, TX", "Techniques of Wildlife Management, RWFM 408 & RWFM 608",
+  "Texas A&M University", "Instructor", "2022 -- Present", "College Station, TX", "Special Topics in Traditional Ecological Knowledge, RWFM 689",
   "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Firearms Cartridges and Ballistics, WOEM 201",
   "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Rifle and Handgun Range Design, Construction and Operations, WOEM 202",
   "Kansas State University", "Graduate Teaching Assistant", "2017 -- 2022", "Manhattan, KS", "Introduction to Wildlife and Outdoor Enterprise Management, WOEM 250",
