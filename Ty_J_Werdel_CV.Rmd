@@ -235,7 +235,7 @@ teach %>%
  \cvpres
     {Daniel Whitman}
     {B.S., Macalester College REU}
-    {2023 -- Present}
+    {2023 -- 2024}
  \cvpres
     {Drake Dancila}
     {B.S., TAMU RWFM}
