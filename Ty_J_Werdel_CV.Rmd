@@ -353,7 +353,7 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded (Total: $3,884,225, Lab Allocated: $385,595)*
+## *Funded (Total: $4,122,870, Lab Allocated: $474,181)*
 
 \vspace{1\baselineskip}
 
@@ -361,6 +361,7 @@ teach %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {\textbf{Luminant Environmental Research Program}. 2024-2027. Ecological impact of varying vegetation management strategies employed on solar farms. \textbf{\$238,645; \textit{Funded}}. PI: Stacy Hines, Co-PIs: \textbf{Ty J. Werdel (Lab Allocated: \$88,586)}, Nuria Gomez-Casanovas, Morgan Treadwell, and Humberto Perotto.}
       \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Developing proxies for rangeland assessments using drones. \textbf{\$106,700; \textit{Funded}}. PI: Humberto Perotto, Co-PIs: Sorin Popescu, \textbf{Ty J. Werdel (Lab Allocated: \$17,783)}, Jacob Lucero, Jeff Goodwin, and Morgan Treadwell.}
       \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Working towards healthy rangelands: understanding the factors limiting the adoption of grazing, fire, and wildfire management practices among exurban landowners. \textbf{\$106,448; \textit{Funded}}. PI: David  Matarrita, Co-PIs: Rafael Landeverde, \textbf{Ty J. Werdel (Lab Allocated: \$26,612)}, and Morgan Treadwell.}
       \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel}.}
