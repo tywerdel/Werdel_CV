@@ -206,6 +206,14 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Else Praasterink}
+    {M.S., TAMU RWFM}
+    {2024 -- Present}
+ \cvpres
+    {Cade Weiss}
+    {M.N.R.D., TAMU RWFM}
+    {2024 -- Present} 
+ \cvpres
     {Amanda Laboy}
     {M.S., TAMU RWFM}
     {2023 -- Present}
@@ -717,7 +725,11 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {OEM Curriculum Committee}
+    {Graduate Student Space Assignment Committee}
+    {RWFM}
+    {2024 -- 2024}
+ \cvpres
+    {Outdoor Enterprise Management Curriculum Committee}
     {RWFM}
     {2023 -- Present}
  \cvpres
