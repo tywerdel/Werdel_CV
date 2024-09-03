@@ -6,6 +6,7 @@ projects <- tribble(
 
 certifications <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Certified Wildlife Biologist®", "The Wildlife Society", "2024", "Online", NA,
   "Esri Academy ArcGIS (9 Certifications)", "Environmental Systems Research Institute", "2021", "Online", NA,
   "Professional Certification in Data Analysis for Life Sciences (R)", "HarvardX, Harvard University", "2020", "Online", NA,
   "GTA Certificate of Achievement in Professional Development", "Kansas State University", "2020", "Manhattan, KS", NA,
