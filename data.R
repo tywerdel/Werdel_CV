@@ -70,6 +70,7 @@ work <- tribble(
 
 service <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
+  "Committee Member", "Publication Awards", NA, 2024, "Present", NA, "Texas Chapter - TWS", NA,
   "Board Member", "Native Peoples' Wildlife Management Working Group", NA, 2024, "Present", NA, "The Wildlife Society", NA,
   "Grant Committee", "Native Student Professional Development Grant", NA, 2023, "Present", NA, "The Wildlife Society", NA,
   "Director", "Native Student Professional Development Grant", NA, 2018, NA, 2023, "The Wildlife Society", NA,

@@ -558,6 +558,10 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+  {Colleges and Universities Education Working Group}
+  {The Wildlife Society}
+  {2024 -- Present}
+ \cvpres
   {Rangeland Wildlife Working Group}
   {The Wildlife Society}
   {2018 -- Present}
@@ -735,7 +739,7 @@ service %>%
  \cvpres
     {Graduate Student Space Assignment Committee}
     {RWFM}
-    {2024 -- 2024}
+    {2024}
  \cvpres
     {Outdoor Enterprise Management Curriculum Committee}
     {RWFM}
