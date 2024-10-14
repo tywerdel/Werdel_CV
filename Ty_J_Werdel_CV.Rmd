@@ -173,11 +173,15 @@ work %>%
       \item {\textbf{2024.} Scholarly squirrels: Exploring the dynamics of Texas A{\&}M’s campus wildlife.  \textbf{\textit{AgriLife TODAY}.} (\url{https://agrilifetoday.tamu.edu/2024/04/19/scholarly-squirrels-exploring-the-dynamics-of-texas-ams-campus-wildlife/}) (\url{https://youtu.be/Bperu7Zza3c?si=RNfih9hkZkrok2JL})}
       \item {\textbf{2023.} Texas winters can drive urban squirrels to nest in your home or car. Heres how to keep critters out. \textbf{\textit{Houston Chronicle}.} (\url{https://www.houstonchronicle.com/news/houston-weather/article/squirrels-nesting-cars-homes-texas-winter-18565806.php})}
       \item {\textbf{2021.} Honoring the Land. \textbf{\textit{KSU Ag Report}.} (\url{https://www.k-state.edu/agreport/documents/AgReport_Fall2021_web.pdf})}
+      \item {\textbf{2019.} Pneumonia threatens success of bighorn sheep introduction near Deadwood. \textbf{\textit{Rapid City Journal}.} (\url{https://rapidcityjournal.com/news/local/pneumonia-threatens-success-of-bighorn-sheep-introduction-near-deadwood/article_3bb417a2-b9a0-5159-a623-ae334f9672eb.html?utm_medium=social&utm_source=email&utm_campaign=user-share})}
+      \item {\textbf{2018.} Life of the wild: Why scientists study ecosystems and the wildlife within them. \textbf{\textit{KSU Seek Research Magazine}.} (\url{https://www.k-state.edu/seek/fall-2018/life-of-the-wild/#prettyPhoto})}
       \item {\textbf{2016.} Hope and Hardship for Black Hills Bighorns. \textbf{\textit{South Dakota Hunting}.} (\url{https://southdakotahunting.com/article/hope-and-hardship-for-black-hills-bighorns})}
       \item {\textbf{2015.} South Dakota Game, Fish {\&} Parks Projects. \textbf{\textit{Ram Tracks}.} (\url{https://www.midwestwildsheep.com/wp-content/uploads/ISSUE-36-2.pdf})}
+      \item {\textbf{2015.} New bighorn sheep herd thriving. \textbf{\textit{Black Hills Pioneer}.} (\url{https://www.bhpioneer.com/new-bighorn-sheep-herd-thriving/article_6b6c1d3e-2755-11e5-8f13-231b5dbc0d3d.html?utm_medium=social&utm_source=email&utm_campaign=user-share})}
       \item {\textbf{2015.} SD GETS BIGHORNS TO BOOST NUMBERS. \textbf{\textit{GOHUNT}.} (\url{https://www.gohunt.com/read/south-dakota-uses-canadian-bighorn-sheep-to-boost-numbers#gs.7q5znx})} 
       \item {\textbf{2015.} Deadwood Bighorn Sheep Release. \textbf{\textit{KOTA Territory News}.} (Video on nightly news)} 
       \item {\textbf{2015.} A bighorn sheep herd gets its start near Deadwood. \textbf{\textit{Rapid City Journal}.} (\url{https://rapidcityjournal.com/news/local/a-bighorn-sheep-herd-gets-its-start-near-deadwood/article_7629e423-af84-5c5a-be97-ad9c59c9f0cc.html?utm_medium=social&utm_source=email&utm_campaign=user-share})} 
+      \item {\textbf{2015.} New herd of bighorn sheep moved to Hills. \textbf{\textit{Black Hills Pioneer}.} (\url{https://www.bhpioneer.com/local_news/new-herd-of-bighorn-sheep-moved-to-hills/article_808292d8-b3c5-11e4-9b4d-432fad90ac10.html})} 
       \end{cvetar}
     }
 \end{cvpubs}
