@@ -773,6 +773,8 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Ties, C.\textbf{*}, \textbf{T.J. Werdel}, and S. Webb. \textbf{2024}. Where have they all gone? Swift fox in Texas. \textbf{\textit{The Wildlife Society 31st Annual Conference, Baltimore, MD}}.}
+      \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2024}. Comparing camera, helicopter, and drone surveys to estimate white-tailed deer \textit{(Odocoileus virginianus)} abundance. \textbf{\textit{The Wildlife Society 31st Annual Conference, Baltimore, MD}}.}
       \item {Pearce, D.L.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Tails on the Great Plains: Interspecific interactions between two cervids in western Kansas. \textbf{\textit{103rd Annual Meeting of the American Society of Mammalogists, Boulder, CO}}.}
       \item {Laboy, A.\textbf{*}, R. Lopez, and \textbf{T.J. Werdel}. \textbf{2024}. Evaluating small mammal biodiversity using camera traps. \textbf{\textit{103rd Annual Meeting of the American Society of Mammalogists, Boulder, CO}}.}
       \item {Hoffman, M.G.\textbf{*}, W.E. Cook, H.L. Perotto, and \textbf{T.J. Werdel}. \textbf{2024}. Spatial interactions of axis and white-tailed deer in the Texas hill country. \textbf{\textit{103rd Annual Meeting of the American Society of Mammalogists, Boulder, CO}}.}
