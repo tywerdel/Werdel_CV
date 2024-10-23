@@ -672,9 +672,13 @@ service %>%
 
 \vspace{1\baselineskip}
 
-## *External Journal Reviewer (10)*
+## *External Journal Reviewer (11)*
 ```{=tex}
 \begin{cvmemb}
+  \cvmem
+    {Ecology and Evolution}
+    {}
+    {2024}
  \cvmem
     {Movement Ecology}
     {}
