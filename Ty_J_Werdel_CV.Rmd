@@ -90,6 +90,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{In-Press}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}.}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Occurrence of fox squirrels influenced by fine-scale landscape characteristics on a college campus. \textbf{\textit{Ecology and Evolution}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Palomo-Muñoz, G., M. Fidino, \textbf{T.J. Werdel}, C.W. Piper, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2024}. Mesopredators have differing influences on prey habitat use and diet activity in a multipredator landscape. \textbf{\textit{Ecosphere}}. \url{https://doi.org/10.1002/ecs2.70006}}
       \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{2024}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Journal of Wildlife Management}} (Featured Article). \url{https://doi.org/10.1002/jwmg.22579}}
@@ -148,9 +149,8 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{In-Review}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}.}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairie. \textbf{\textit{Journal of Mammalogy}}.}
-      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Revision}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
+      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
     }
 \end{cvpubs}
@@ -373,7 +373,7 @@ teach %>%
 
 # Investigator Grants & Contracts
 
-## *Funded (Total: $4,111,869, Lab Allocated: $431,124)*
+## *Funded (Total: $4,111,869, Lab Allocated: $481,124)*
 
 \vspace{1\baselineskip}
 
@@ -384,7 +384,7 @@ teach %>%
       \item {\textbf{Luminant Environmental Research Program}. 2024-2027. Ecological impact of varying vegetation management strategies employed on solar farms. \textbf{\$227,644; \textit{Funded}}. PI: Stacy Hines, Co-PIs: \textbf{Ty J. Werdel (Lab Allocated: \$45,529)}, Nuria Gomez-Casanovas, Morgan Treadwell, and Humberto Perotto.}
       \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Developing proxies for rangeland assessments using drones. \textbf{\$106,700; \textit{Funded}}. PI: Humberto Perotto, Co-PIs: Sorin Popescu, \textbf{Ty J. Werdel (Lab Allocated: \$17,783)}, Jacob Lucero, Jeff Goodwin, and Morgan Treadwell.}
       \item {\textbf{TAMU AgriLife Research Rangeland Ecology and Management Research Funding}. 2024-2026. Working towards healthy rangelands: understanding the factors limiting the adoption of grazing, fire, and wildfire management practices among exurban landowners. \textbf{\$106,448; \textit{Funded}}. PI: David  Matarrita, Co-PIs: Rafael Landeverde, \textbf{Ty J. Werdel (Lab Allocated: \$26,612)}, and Morgan Treadwell.}
-      \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel}.}
+      \item {\textbf{TAMU AgriLife Research Animal Health and Disease Research Capacity Funding}. 2024-2025. The impact of osmotic stress on the catfish pathogen \textit{Aeromonas hydrophila}: Implications for managing motile \textit{Aeromonas} septicemia (MAS) in U.S. catfish farming. \textbf{\$100,000; \textit{Funded}}. PI: Haitham Mohammed, Co-PI: \textbf{Ty J. Werdel (Lab Allocated: \$50,000)}.}
       \item {\textbf{Private Donation}. 2023. Student-led population ecology of fox squirrels on the TAMU campus. \textbf{\$10,000; \textit{Funded}}. PI: \textbf{Ty J. Werdel}.}
       \item {\textbf{USFWS}. 2023-2027. Evaluation and mitigation for sensitive state threatened and endangered wildlife.
 \textbf{\$3,399,877; \textit{Funded}}. Co-PIs: Marcus Blum, Paul Crump, Jacob Dykes, Whitney Gann, Andrew Gregory, Toby Hibbitts, Mathew Kramm, Roel Lopez, Kevin Moczygemba, Michael Morrison, Humberto Perotto, Wady Ryberg, Danielle Walkup, Stephen Webb, and \textbf{Ty J. Werdel (Lab Allocated: \$170,000)}.}
@@ -744,6 +744,10 @@ service %>%
 
 ```{=tex}
 \begin{cvpress}
+ \cvpres
+    {Outdoor Enterprise Management Search Committee}
+    {RWFM}
+    {2024 -- Present}
  \cvpres
     {Graduate Student Space Assignment Committee}
     {RWFM}
