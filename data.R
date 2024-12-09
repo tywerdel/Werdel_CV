@@ -131,6 +131,7 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Effective Engagement Between Universities and Tribes", "National Association of University Fisheries and Wildlife Programs", "2024", "Virtual Panel", NA,
   "TEK: A Place-Based Perspective", "FNR Conservation Celebration, Purdue University", "2024", "West Lafayette, IN", NA,
   "TEK of Wetlands", "Kansas State University", "2023", "Manhattan, KS", NA,
   "TEK: A Place-Based Perspective", "The SACNAS Diversity in Research Symposium", "2023", "College Station, TX", NA,
