@@ -307,7 +307,23 @@ teach %>%
 
 ```{=tex}
 \begin{cvpress}
-    \cvpres
+  \cvpres
+    {RWFM Spring Graduate Student Travel Grant}
+    {Amanda Laboy}
+    {2025}
+  \cvpres
+    {RWFM Spring Graduate Student Travel Grant}
+    {Kayla Art}
+    {2025}
+  \cvpres
+    {RWFM Spring Graduate Student Travel Grant}
+    {David Pearce}
+    {2025}
+  \cvpres
+    {RWFM Spring Graduate Student Travel Grant}
+    {Lulu Hoffman}
+    {2025}
+  \cvpres
     {RWFM Fall Graduate Student Travel Grant}
     {David Pearce}
     {2024}
