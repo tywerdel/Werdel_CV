@@ -90,7 +90,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{In-Press}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}.}
+      \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{2025}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Occurrence of fox squirrels influenced by fine-scale landscape characteristics on a college campus. \textbf{\textit{Ecology and Evolution}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Palomo-Muñoz, G., M. Fidino, \textbf{T.J. Werdel}, C.W. Piper, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2024}. Mesopredators have differing influences on prey habitat use and diet activity in a multipredator landscape. \textbf{\textit{Ecosphere}}. \url{https://doi.org/10.1002/ecs2.70006}}
       \item {\textbf{Werdel, T.J.}, D. Matarrita-Cascante, and J.E. Lucero. \textbf{2024}. State of traditional ecological knowledge in the wildlife management profession. \textbf{\textit{Journal of Wildlife Management}} (Featured Article). \url{https://doi.org/10.1002/jwmg.22579}}
@@ -809,7 +809,8 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. An investigation of the osmotic effects on \textit{Aeromonas hydrophila}, the causative agent of motile \textit{aeromonas} septicemia. \textbf{\textit{Texas Aquaculture Association Annual Meeting, Port Lavaca, Texas}}.}
+      \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. Growth dynamics, morphological adaptation, biofilm formation, and virulence of \textit{Aeromonas hydrophila} in response to osmotic stress. \textbf{\textit{48th Annual Eastern Fish Health Workshop, Grand Rapids, MI}}.}
+      \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. An investigation of the osmotic effects on \textit{Aeromonas hydrophila}, the causative agent of motile \textit{Aeromonas} septicemia. \textbf{\textit{Texas Aquaculture Association Annual Meeting, Port Lavaca, TX}}.}
       \item {Ties, C.\textbf{*}, \textbf{T.J. Werdel}, and S. Webb. \textbf{2024}. Where have they all gone? Swift fox in Texas. \textbf{\textit{The Wildlife Society 31st Annual Conference, Baltimore, MD}}.}
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2024}. Comparing camera, helicopter, and drone surveys to estimate white-tailed deer \textit{(Odocoileus virginianus)} abundance. \textbf{\textit{The Wildlife Society 31st Annual Conference, Baltimore, MD}}.}
       \item {Pearce, D.L.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Tails on the Great Plains: Interspecific interactions between two cervids in western Kansas. \textbf{\textit{103rd Annual Meeting of the American Society of Mammalogists, Boulder, CO}}.}
