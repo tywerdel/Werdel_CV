@@ -700,10 +700,14 @@ service %>%
 
 \vspace{1\baselineskip}
 
-## *External Journal Reviewer (11)*
+## *External Journal Reviewer (12)*
 ```{=tex}
 \begin{cvmemb}
-  \cvmem
+ \cvmem
+    {The Journal of Wildlife Management}
+    {(3)}
+    {2023 (x2), 2025}
+ \cvmem
     {Ecology and Evolution}
     {}
     {2024}
@@ -711,10 +715,7 @@ service %>%
     {Movement Ecology}
     {}
     {2024}
- \cvmem
-    {The Journal of Wildlife Management}
-    {(2)}
-    {2023, 2023}
+
  \cvmem
     {Journal of Fish and Wildlife Management}
     {}
