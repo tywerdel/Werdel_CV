@@ -253,6 +253,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Joshua Incardona}
+    {B.S., TAMU RWFM}
+    {2025 -- Present}
+ \cvpres
     {Daniel Whitman}
     {B.S., Macalester College REU}
     {2023 -- 2024}
@@ -700,9 +704,13 @@ service %>%
 
 \vspace{1\baselineskip}
 
-## *External Journal Reviewer (12)*
+## *External Journal Reviewer (13)*
 ```{=tex}
 \begin{cvmemb}
+ \cvmem
+    {Ecological Applications}
+    {}
+    {2025}
  \cvmem
     {The Journal of Wildlife Management}
     {(3)}
