@@ -210,6 +210,10 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
   \cvpres
+    {Autumn Patterson}
+    {Ph.D., TAMU RWFM}
+    {2025 -- Present}
+  \cvpres
     {Reece Allen}
     {Ph.D., TAMU RWFM}
     {2025 -- Present}
@@ -311,6 +315,10 @@ teach %>%
 
 ```{=tex}
 \begin{cvpress}
+  \cvpres
+    {Avilés-Johnson Fellowship}
+    {Autumn Patterson}
+    {2025}
   \cvpres
     {RWFM Spring Graduate Student Travel Grant}
     {Amanda Laboy}
@@ -818,6 +826,10 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Hoffman, M.G.\textbf{*}, \textbf{T.J. Werdel}, J. Dykes, H.L. Perotto, and W. Cook. \textbf{2025}. Spatial interactions of axis and white-tailed deer in the Edwards Plateau Ecoregion of Texas. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}
+      \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. Did you hear that? Counting quail Using autonomous recorders and hierarchical models. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}      
+      \item {Art, K.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2025}. How flight behavior responses of eastern fox squirrels differ between rural and synurbanized populations in College Station, Texas. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}      
+      \item {Ramirez, D.\textbf{*}, S. Hines, \textbf{T.J. Werdel}, N. Gomez-Casanovas, M. Treadwell and H. Perotto-Baldivieso. \textbf{2025}. Ecological impact of varying vegetation management strategies employed on solar rarms. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}
       \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. Growth dynamics, morphological adaptation, biofilm formation, and virulence of \textit{Aeromonas hydrophila} in response to osmotic stress. \textbf{\textit{48th Annual Eastern Fish Health Workshop, Grand Rapids, MI}}.}
       \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. An investigation of the osmotic effects on \textit{Aeromonas hydrophila}, the causative agent of motile \textit{Aeromonas} septicemia. \textbf{\textit{Texas Aquaculture Association Annual Meeting, Port Lavaca, TX}}.}
       \item {Ties, C.\textbf{*}, \textbf{T.J. Werdel}, and S. Webb. \textbf{2024}. Where have they all gone? Swift fox in Texas. \textbf{\textit{The Wildlife Society 31st Annual Conference, Baltimore, MD}}.}

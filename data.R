@@ -131,9 +131,11 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Mammals in a Changing North American Landscape", "RWFM Graduate Seminar Series", "2025", "College Station, TX", NA,
   "Effective Engagement Between Universities and Tribes", "National Association of University Fisheries and Wildlife Programs", "2024", "Virtual Panel", NA,
   "TEK: A Place-Based Perspective", "FNR Conservation Celebration, Purdue University", "2024", "West Lafayette, IN", NA,
   "TEK of Wetlands", "Kansas State University", "2023", "Manhattan, KS", NA,
+  "TEK: A Place-Based Perspective", "RWFM Graduate Seminar Series", "2023", "College Station, TX", NA,
   "TEK: A Place-Based Perspective", "The SACNAS Diversity in Research Symposium", "2023", "College Station, TX", NA,
   "Community Building Through Mentorship Panel", "The Wildlife Society Annual Conference", "2022", "Spokane, WA", NA,
   "Applied Wildlife Management: A Landscape Ecology Approach", "Texas A&M University", "2021", "College Station, TX", NA,
