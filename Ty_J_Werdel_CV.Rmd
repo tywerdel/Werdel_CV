@@ -826,6 +826,8 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, M.E. Blum, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. How many deer live in the brush? Comparing camera and helicopter survey and modeling methods to estimate white-tailed deer abundance in south Texas. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}    
+      \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. Exploring the impact of osmotic stress on virulent \textit{Aeromonas hydrophila}, the causative agent of motile \textit{Aeromonas septicemia} (MAS) in U.S. catfish aquaculture. \textbf{\textit{Aquaculture 2025, New Orleans, LA}}.}
       \item {Hoffman, M.G.\textbf{*}, \textbf{T.J. Werdel}, J. Dykes, H.L. Perotto, and W. Cook. \textbf{2025}. Spatial interactions of axis and white-tailed deer in the Edwards Plateau Ecoregion of Texas. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. Did you hear that? Counting quail Using autonomous recorders and hierarchical models. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}      
       \item {Art, K.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2025}. How flight behavior responses of eastern fox squirrels differ between rural and synurbanized populations in College Station, Texas. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}      
