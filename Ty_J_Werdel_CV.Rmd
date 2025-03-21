@@ -205,7 +205,7 @@ teach %>%
 
 # Student Mentorship
 
-## *Graduate Student Research Advising*
+## *Graduate Student Research Advising* (*Graduated)
 
 ```{=tex}
 \begin{cvpress}
@@ -246,7 +246,7 @@ teach %>%
     {M.S., TAMU RWFM}
     {2023 -- Present}
  \cvpres
-    {Conner Ties}
+    {\textbf{*}Conner Ties}
     {M.S., TAMU RWFM}
     {2022 -- 2024}
 \end{cvpress}
@@ -261,15 +261,15 @@ teach %>%
     {B.S., TAMU RWFM}
     {2025 -- Present}
  \cvpres
-    {Daniel Whitman}
+    {\textbf{*}Daniel Whitman}
     {B.S., Macalester College REU}
     {2023 -- 2024}
  \cvpres
-    {Drake Dancila}
+      {\textbf{*}Drake Dancila}
     {B.S., TAMU RWFM}
     {2022 -- 2023}
  \cvpres
-    {Lulu Hoffman}
+    {\textbf{*}Lulu Hoffman}
     {B.S., TAMU RWFM}
     {2022 -- 2023}    
 \end{cvpress}
@@ -280,7 +280,7 @@ teach %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
-    {Sebastian Kuo}
+    {\textbf{*}Sebastian Kuo}
     {H.S., Carnegie Vanguard High School}
     {2023 -- 2024}
 \end{cvpress}
@@ -304,7 +304,7 @@ teach %>%
     {M.S., TAMU SCSC}
     {2024 -- Present}
  \cvpres
-    {Daniel Ramirez}
+    {\textbf{*}Daniel Ramirez}
     {M.S., TAMU-Kingsville RWM}
     {2023 -- 2024}
 \end{cvpress}
@@ -318,6 +318,10 @@ teach %>%
   \cvpres
     {Avilés-Johnson Fellowship}
     {Autumn Patterson}
+    {2025}
+  \cvpres
+    {RWFM Outstanding Master’s Student of the Year Award}
+    {David Pearce}
     {2025}
   \cvpres
     {RWFM Spring Graduate Student Travel Grant}
@@ -368,7 +372,7 @@ teach %>%
     {Lulu Hoffman}
     {2024}
   \cvpres
-    {RWFM Master's Student Excellence Award}
+    {RWFM Outstanding Master’s Student of the Year Award}
     {Conner Ties}
     {2024}
   \cvpres
@@ -400,11 +404,11 @@ teach %>%
     {David Pearce}
     {2023}
  \cvpres
-    {RWFM Undergraduate Student Excellence Award}
+    {RWFM Outstanding Undergraduate Student of the Year Award}
     {Drake Dancila}
     {2023}
   \cvpres
-    {RWFM Undergraduate Student Excellence Award}
+    {RWFM Outstanding Undergraduate Student of the Year Award}
     {Lulu Hoffman}
     {2023}
 \end{cvpress}
@@ -827,6 +831,7 @@ service %>%
     {
       \begin{cvetar}
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, M.E. Blum, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. How many deer live in the brush? Comparing camera and helicopter survey and modeling methods to estimate white-tailed deer abundance in south Texas. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}    
+      \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. Song of the South: Estimating northern bobwhite quail abundance using passive acoustic monitors. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}    
       \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. Exploring the impact of osmotic stress on virulent \textit{Aeromonas hydrophila}, the causative agent of motile \textit{Aeromonas septicemia} (MAS) in U.S. catfish aquaculture. \textbf{\textit{Aquaculture 2025, New Orleans, LA}}.}
       \item {Hoffman, M.G.\textbf{*}, \textbf{T.J. Werdel}, J. Dykes, H.L. Perotto, and W. Cook. \textbf{2025}. Spatial interactions of axis and white-tailed deer in the Edwards Plateau Ecoregion of Texas. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. Did you hear that? Counting quail Using autonomous recorders and hierarchical models. \textbf{\textit{Texas Chapter of The Wildlife Society Annual Conference, Denton, TX}}.}      
