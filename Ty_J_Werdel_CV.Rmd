@@ -322,6 +322,14 @@ teach %>%
   \cvpres
     {RWFM Outstanding Master’s Student of the Year Award}
     {David Pearce}
+    {2025}  
+  \cvpres
+    {TAMU Student Research Week Outstanding Poster Presentation}
+    {Kayla Art}
+    {2025}
+  \cvpres
+    {TAMU Student Research Week Outstanding Oral Presentation}
+    {David Pearce}
     {2025}
   \cvpres
     {RWFM Spring Graduate Student Travel Grant}
@@ -830,6 +838,7 @@ service %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {Art, K.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2025}. How flight behavior responses of eastern fox squirrels differ between rural and synurbanized populations in College Station, Texas. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}          
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, M.E. Blum, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. How many deer live in the brush? Comparing camera and helicopter survey and modeling methods to estimate white-tailed deer abundance in south Texas. \textbf{\textit{TAMU Student Research Week, College Station, TX}}.}    
       \item {Pearce, D.L.\textbf{*}, T. Schafer, H. Perotto-Baldivieso, \textbf{T.J. Werdel}, and S. Webb. \textbf{2025}. Song of the South: Estimating northern bobwhite quail abundance using passive acoustic monitors. \textbf{\textit{Ecological Integration Symposium, College Station, TX}}.}    
       \item {Erdogan, O., M.I. Haque, H.A. Biswas, \textbf{T.J. Werdel}, and H. Mohammed. \textbf{2025}. Exploring the impact of osmotic stress on virulent \textit{Aeromonas hydrophila}, the causative agent of motile \textit{Aeromonas septicemia} (MAS) in U.S. catfish aquaculture. \textbf{\textit{Aquaculture 2025, New Orleans, LA}}.}
