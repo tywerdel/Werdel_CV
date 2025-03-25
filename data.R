@@ -71,6 +71,7 @@ work <- tribble(
 
 service <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
+  "Proposal Reviewer", "Advancing Informal STEM Learning Program", NA, 2025, "Present", NA, "National Science Foundation", NA,
   "Committee Member", "Publication Awards", NA, 2024, "Present", NA, "Texas Chapter - TWS", NA,
   "Board Member", "Native Peoples' Wildlife Management Working Group", NA, 2024, "Present", NA, "The Wildlife Society", NA,
   "Grant Committee", "Native Student Professional Development Grant", NA, 2023, "Present", NA, "The Wildlife Society", NA,
@@ -131,8 +132,10 @@ teach <- tribble(
 
 invited <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Perspectives on Tribal Stewardship", "University of Georgia Panel Discussion", "2025", "Athens, GA", NA,
+  "Wildlife Management Techniques in Shifting Landscapes", "Calvin University Seminar", "2025", "Grand Rapids, MI", NA,
   "Mammals in a Changing North American Landscape", "RWFM Graduate Seminar Series", "2025", "College Station, TX", NA,
-  "Effective Engagement Between Universities and Tribes", "National Association of University Fisheries and Wildlife Programs", "2024", "Virtual Panel", NA,
+  "Effective Engagement Between Universities and Tribes", "National Association of University Fisheries and Wildlife Programs", "2024", "Gainesville, FL", NA,
   "TEK: A Place-Based Perspective", "FNR Conservation Celebration, Purdue University", "2024", "West Lafayette, IN", NA,
   "TEK of Wetlands", "Kansas State University", "2023", "Manhattan, KS", NA,
   "TEK: A Place-Based Perspective", "RWFM Graduate Seminar Series", "2023", "College Station, TX", NA,
