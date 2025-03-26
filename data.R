@@ -157,6 +157,7 @@ invited <- tribble(
 
 guest <- tribble(
   ~area, ~accomplishment, ~year, ~where, ~detail,
+  "Professional Wildlife Certification", "RWFM 481 - Texas A&M University", "Spring 2025", "College Station, TX", NA,
   "Professional Wildlife Certification", "RWFM 481 - Texas A&M University", "Fall 2024", "College Station, TX", NA,
   "Foundations in Rangeland, Wildlife, and Fisheries Management", "RWFM 661 - Texas A&M University", "2024", "College Station, TX", NA,
   "Ag Communication in Wildlife Research", "ALEC 350 - Texas A&M University", "2024", "College Station, TX", NA,
