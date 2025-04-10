@@ -151,7 +151,6 @@ work %>%
     {
       \begin{cvetar}
       \item {Piper, C.W., \textbf{T.J. Werdel}, M.S. Peek, A.M. Ricketts, D.S. Sullins, and A.A. Ahlers. \textbf{In-Revision}. Landscape composition and proximity to water structure American badger distributions in shortgrass prairie. \textbf{\textit{Journal of Mammalogy}}.}
-      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Review}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \end{cvetar}
     }
 \end{cvpubs}
