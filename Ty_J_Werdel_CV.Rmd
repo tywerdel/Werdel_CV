@@ -90,6 +90,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
+      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{In-Press}. Landscape composition mediates spatiotemporal interactions among sympatric canids in a prairie ecosystem. \textbf{\textit{Ecological Applications}}.}
       \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{2025}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Occurrence of fox squirrels influenced by fine-scale landscape characteristics on a college campus. \textbf{\textit{Ecology and Evolution}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Palomo-Muñoz, G., M. Fidino, \textbf{T.J. Werdel}, C.W. Piper, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2024}. Mesopredators have differing influences on prey habitat use and diet activity in a multipredator landscape. \textbf{\textit{Ecosphere}}. \url{https://doi.org/10.1002/ecs2.70006}}
@@ -319,6 +320,10 @@ teach %>%
     {Avilés-Johnson Fellowship}
     {Autumn Patterson}
     {2025}
+  \cvpres
+    {Gamma Sigma Delta Outstanding Master’s Student Award}
+    {David Pearce}
+    {2025}  
   \cvpres
     {RWFM Outstanding Master’s Student of the Year Award}
     {David Pearce}
