@@ -806,9 +806,13 @@ service %>%
 ```{=tex}
 \begin{cvpress}
  \cvpres
+    {Boone and Crockett Chair Search Committee}
+    {RWFM}
+    {2025 -- Present}
+ \cvpres
     {Outdoor Enterprise Management Search Committee}
     {RWFM}
-    {2024 -- Present}
+    {2024 -- 2025}
  \cvpres
     {Graduate Student Space Assignment Committee}
     {RWFM}
