@@ -142,6 +142,22 @@ work %>%
 
 \vspace{1\baselineskip}
 
+## *Data Repositories*
+
+\vspace{1\baselineskip}
+
+```{=tex}
+\begin{cvpubs}
+    {
+      \begin{cvetar}
+      \item {\textbf{Werdel, T.J.} \textbf{2025}. SpatioTemporalCanids (Version 1.0.0). \textbf{\textit{Zenodo}}. \url{https://doi.org/10.5281/zenodo.15191398}}
+      \end{cvetar}
+    }
+\end{cvpubs}
+```
+
+\vspace{1\baselineskip}
+
 ## *In-Revision/Review*
 
 \vspace{1\baselineskip}
