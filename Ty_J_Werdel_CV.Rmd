@@ -246,22 +246,22 @@ teach %>%
     {M.N.R.D., TAMU RWFM}
     {2024 -- Present} 
  \cvpres
-    {Amanda Laboy}
-    {M.S., TAMU RWFM}
-    {2023 -- Present}
- \cvpres
-    {Kayla Art}
-    {M.N.R.D., TAMU RWFM}
-    {2023 -- Present} 
- \cvpres
     {Lulu Hoffman}
     {M.S., TAMU RWFM}
     {2023 -- Present}
- \cvpres
+  \cvpres
+    {Amanda Laboy}
+    {M.S., TAMU RWFM}
+    {2023 -- Present}
+  \cvpres
     {David Pearce}
     {M.S., TAMU RWFM}
     {2023 -- Present}
- \cvpres
+  \cvpres
+    {\textbf{*}Kayla Art}
+    {M.N.R.D., TAMU RWFM}
+    {2023 -- 2025} 
+  \cvpres
     {\textbf{*}Conner Ties}
     {M.S., TAMU RWFM}
     {2022 -- 2024}
@@ -275,13 +275,13 @@ teach %>%
  \cvpres
     {Joshua Incardona}
     {B.S., TAMU RWFM}
-    {2025 -- Present}
+    {2025 -- 2025}
  \cvpres
     {\textbf{*}Daniel Whitman}
     {B.S., Macalester College REU}
     {2023 -- 2024}
  \cvpres
-      {\textbf{*}Drake Dancila}
+    {\textbf{*}Drake Dancila}
     {B.S., TAMU RWFM}
     {2022 -- 2023}
  \cvpres
