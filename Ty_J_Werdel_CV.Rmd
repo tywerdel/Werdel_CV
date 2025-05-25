@@ -14,28 +14,15 @@ date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
 aboutme: "My research interests include the fields of Rangeland and Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
 docname: CV
-output: vitae::awesomecv
+output:
+  vitae::awesomecv:
+    keep_tex: true
 ---
 
 ```{r setup, include=FALSE}
-# turn on figure cropping
-knitr::opts_chunk$set(
-  echo     = FALSE,
-  warning  = FALSE,
-  message  = FALSE,
-  fig.crop = TRUE           # ← enable cropping
-)
-
-# tell R where Ghostscript lives:
-Sys.setenv(
-  R_GSCMD = "C:\\Program Files\\gs\\gs10.05.1\\bin\\gswin64.exe"
-)
-
-require(xfun)
-packages <- c('vitae', 'tibble', 'magrittr', 'here','readr','glue')
-xfun::pkg_attach2(packages, message = FALSE)
-source(file = here("","data.R"))
-
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+xfun::pkg_attach2(c("vitae", "tibble", "magrittr", "here", "readr", "glue"), message = FALSE)
+source(here("data.R"), local = TRUE)
 ```
 ```{=tex}
 \makecvfooter
@@ -58,6 +45,7 @@ edu %>%
     where = where
   )
 ```
+
 # Certifications
 
 ```{r CERTIFICATIONS}
