@@ -71,7 +71,7 @@ work <- tribble(
 
 service <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Proposal Reviewer", "Advancing Informal STEM Learning Program", NA, 2025, "Present", NA, "National Science Foundation", NA,
+  "Proposal Reviewer", "Division of Research on Learning", NA, 2025, "Present", NA, "National Science Foundation", NA,
   "Committee Member", "Publication Awards", NA, 2024, "Present", NA, "Texas Chapter - TWS", NA,
   "Board Member", "Native Peoples' Wildlife Management Working Group", NA, 2024, "Present", NA, "The Wildlife Society", NA,
   "Grant Committee", "Native Student Professional Development Grant", NA, 2023, "Present", NA, "The Wildlife Society", NA,

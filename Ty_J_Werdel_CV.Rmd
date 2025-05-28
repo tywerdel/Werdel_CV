@@ -14,9 +14,7 @@ date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
 aboutme: "My research interests include the fields of Rangeland and Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
 docname: CV
-output:
-  vitae::awesomecv:
-    keep_tex: true
+output: vitae::awesomecv
 ---
 
 ```{r setup, include=FALSE}
@@ -30,6 +28,8 @@ source(here("data.R"), local = TRUE)
   {\today}
   {\thepage}
 ```
+
+
 
 \thispagestyle{empty}
 
