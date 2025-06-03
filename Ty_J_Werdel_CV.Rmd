@@ -3,7 +3,7 @@ name: Ty J.
 surname: Werdel
 position: "Assistant Professor"
 address: "Department of Rangeland, Wildlife and Fisheries Management - Texas A&M University, College Station, TX"
-profilepic: "TySuitHeadshot-2_Square.jpg"
+profilepic: "headshot_cowboy.jpg"
 www: "werdelwildlife.com"
 department: "rwfm.tamu.edu/people/werdel-ty/"
 email: "ty.werdel@ag.tamu.edu"
@@ -14,14 +14,28 @@ date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 500000
 aboutme: "My research interests include the fields of Rangeland and Wildlife Management and Landscape Ecology. This work addresses questions that provide insight into the relationships between wildlife, native environments, and contemporary human-modified landscapes."
 docname: CV
-output: vitae::awesomecv
+output:
+  vitae::awesomecv:
+    keep_tex: false
+    latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-xfun::pkg_attach2(c("vitae", "tibble", "magrittr", "here", "readr", "glue"), message = FALSE)
-source(here("data.R"), local = TRUE)
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+require(xfun)
+packages <- c('vitae'     # The CV's LaTeX Template
+             ,'tibble'    # Data structure for tribbles
+             ,'magrittr'  # The Pipe %>%
+             ,'here'      # Relative File Paths
+             ,'readr'     # Data Loading
+             ,'glue'      # String Manipulation
+            )
+xfun::pkg_attach2(packages, message = FALSE)
+source(file = here("","data.R"))
 ```
+
 ```{=tex}
 \makecvfooter
   {Dr. Ty J. Werdel~~~·~~~\textit{Curriculum vitae}}
@@ -29,9 +43,6 @@ source(here("data.R"), local = TRUE)
   {\thepage}
 ```
 
-
-
-\thispagestyle{empty}
 
 # Education
 
@@ -83,7 +94,7 @@ work %>%
 \begin{cvpubs}
     {
       \begin{cvetar}
-      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{2025}. Influence of landscape composition on spatiotemporal interactions between sympatric canids. \textbf{\textit{Ecological Applications}}. \url{https://doi.org/10.1002/eap.70047}}
+      \item {\textbf{Werdel, T.J.}, M. Fidino, C.W. Piper, A.M. Ricketts, M.S. Peek, and A.A Ahlers. \textbf{2025}. Influence of landscape composition on spatiotemporal interactions between sympatric canids. \textbf{\textit{Ecological Applications}} (Cover Article). \url{https://doi.org/10.1002/eap.70047}}
       \item {Rooney, B., ...,\textbf{T.J. Werdel}, ..., and W.J. McShea (> 100 Co-Authors). \textbf{2025}. SNAPSHOT USA 2019–2023: The first five years of data from a coordinated camera trap survey of the United States. \textbf{\textit{Global Ecology and Biogeography}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Whitman, D.\textbf{*} and \textbf{T.J. Werdel}. \textbf{2024}. Occurrence of fox squirrels influenced by fine-scale landscape characteristics on a college campus. \textbf{\textit{Ecology and Evolution}}. \url{https://doi.org/10.1002/ece3.70488}}
       \item {Palomo-Muñoz, G., M. Fidino, \textbf{T.J. Werdel}, C.W. Piper, T. Gallo, M.S. Peek, A.M. Ricketts, and A.A. Ahlers. \textbf{2024}. Mesopredators have differing influences on prey habitat use and diet activity in a multipredator landscape. \textbf{\textit{Ecosphere}}. \url{https://doi.org/10.1002/ecs2.70006}}
@@ -216,7 +227,7 @@ teach %>%
 
 # Student Mentorship
 
-## *Graduate Student Research Advising* (*Graduated)
+## *Graduate Student Committee Chair/Co-Chair* (*Graduated)
 
 ```{=tex}
 \begin{cvpress}
@@ -245,13 +256,13 @@ teach %>%
     {M.S., TAMU RWFM}
     {2023 -- Present}
   \cvpres
-    {Amanda Laboy}
+    {\textbf{*}Amanda Laboy}
     {M.S., TAMU RWFM}
-    {2023 -- Present}
+    {2023 -- 2025}
   \cvpres
-    {David Pearce}
+    {\textbf{*}David Pearce}
     {M.S., TAMU RWFM}
-    {2023 -- Present}
+    {2023 -- 2025}
   \cvpres
     {\textbf{*}Kayla Art}
     {M.N.R.D., TAMU RWFM}
