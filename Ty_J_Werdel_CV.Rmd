@@ -130,6 +130,23 @@ work %>%
 
 \vspace{1\baselineskip}
 
+## *Extension*
+
+\vspace{1\baselineskip}
+
+
+```{=tex}
+\begin{cvpubs}
+    {
+      \begin{cvetar}
+      \item {Art, K.M.\textbf{*}, R.R. Lopez, E.H. Silvy, J.L. Dykes, and \textbf{T.J. Werdel}. \textbf{2025}. Eastern fox squirrel (\textit{Sciurus niger}) ecology and management. \textbf{\textit{Texas A{\&}M AgriLife Extension}}: RWFM-PU-426.}
+      \end{cvetar}
+    }
+\end{cvpubs}
+```
+
+\vspace{1\baselineskip}
+
 ## *Book Reviews*
 
 \vspace{1\baselineskip}
